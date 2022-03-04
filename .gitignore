@@ -1,0 +1,11 @@
+*~
+*.gz
+*.tar
+*.tgz
+*.zip
+*.log
+*.err
+
+#emacs files
+\#*#
+.\#*
