@@ -29,6 +29,24 @@ community hackathon at the end of March, so come back often and check
 in on where we are, and you see something you would like to contirbute
 to or work on, well, check it out!
 
+## Join our Mailing List
+
+We are assembling a mailing list to keep those interested in the loop,
+without needing to sign up for a Meetup or Github or some other
+account. We will not spam you, we will not sell your contact
+information, you may opt out at any time.
+
+If you would like to be added to the mailing list, please send an
+email to
+
+[AddMe @ CodeForVegas.org](mailto:addme@codeforvegas.org)
+
+## Stay Tuned!
+
+Our website and more information about all plans, projects, and
+participation are coming soon!
+
+
 To be continued...
 
 Dan Hugo (and others to be named sooner and later)
