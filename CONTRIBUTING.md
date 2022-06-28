@@ -130,7 +130,7 @@ All participation in any aspect of contribution of creative work, and in the act
 
 ## This Document
 
-This original CONTRIBUTING document has been composed by and for the Code for Vegas Foundation by [Dan Hugo](https://github.com/DanHugoDanHugo). Please find the revision controlled version of this document with history in the GitHub.com [Code for Vegas organization](https://github.com/CodeForVegas) top-level repository at [CONTRIBUTING.md](https://github.com/CodeForVegas/.github/tree/main/profile/CONTRIBUTING.md).
+This original CONTRIBUTING document has been composed by and for the Code for Vegas Foundation by [Dan Hugo](https://github.com/DanHugoDanHugo). Please find the revision controlled version of this document with history in the GitHub.com [Code for Vegas organization](https://github.com/CodeForVegas) top-level repository at [CONTRIBUTING.md](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md).
 
 This document is published with Copyright 2022 by the Code for Vegas Foundation
 This document is made available under the license of the repository in which is found, or under the [Creative Commons Attribution-ShareAlike 4.0 International License (cc-by-sa-4.0)](http://creativecommons.org/licenses/by-sa/4.0/) if there is no specified license present or available.
