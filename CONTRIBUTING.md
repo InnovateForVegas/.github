@@ -36,7 +36,7 @@ In cases where one single repository contains creative work with different appli
 
 Contributors to this repository may be anywhere on a skills/experience spectrum. Teaching and learning are a part of the Code for Vegas mission and project development process, and so there may be instances where an incomplete or incorrect repository commit is attempted, a commit must be reversed, perhaps a comment updated, perhaps there was a forgotten file that needs to be added. These things happen. Learn from these and be aware that others may also be learning.
 
-Most source code is typically authored in the development programming language of choice, with variable names, comments, and other documentation created for English-speaking developers (this may also apply to non-code projects, such as documentation, marketing materials, visual cues, audio content, etc). Be aware that some contributors may not speak English as a first language, such that spelling and grammar issues may arise. These are easily edited and are learning opportunties for all.
+Most source code is typically authored in the development programming language of choice, with variable names, comments, and other documentation created for English-speaking developers (this may also apply to non-code projects, such as documentation, marketing materials, visual cues, audio content, etc). Be aware that some contributors may not speak English as a first language, such that spelling and grammar issues may arise. These are easily edited and are learning opportunities for all.
 
 If possible, projects (code and otherwise) should be designed to be compatible with internationalization and localization (typically i18n and l10n) norms, and should additionally be as compatible as is possible with WAI-ARIA and any other relevant accessibility standards and practices.
 
@@ -46,7 +46,7 @@ When in doubt, check the CODE_OF_CONDUCT document associated with this repositor
 
 ## Project Repository Details
 
-The following are applicable to creative works that are source code or similar and which shall follow common and useful Best Practices for software development, described herein. Best Practices not described herein are left to project and repository teams to adopt and use in order to make developming the project and its components productive, educational, and enjoyable.
+The following are applicable to creative works that are source code or similar and which shall follow common and useful Best Practices for software development, described herein. Best Practices not described herein are left to project and repository teams to adopt and use in order to make developing the project and its components productive, educational, and enjoyable.
 
 ### Naming Things
 
@@ -56,15 +56,15 @@ This is the top-level OverView repository, which will contain a high-level descr
 
 Additional repositories added to the project should adhere to a similar naming scheme, for example, __be-(project-name)__ for backend code, __fe-(project-name)__ for frontend code, __doc-(project-name)__ for separate project documentation (perhaps including i18n and l10n work), and more may be added. This convention will, ideally, make navigating the GitHub repository organizational scheme (which is not much) easier as more repositories are added. Note that adding a suffix to __project-name__ is acceptable to indicate more detail (eg if there is more than one backend or frontend repo for a given project, for experimentation or other).
 
-Organization of each repository, and of project components not stored within GitHub or a git repository in general, are likely to have their own particular needs based on programming language, architectural choices, and sensibility. Aside from inclusion of LICENSE and other standard files to comply with the Code for Vegas open source development and publishing scheme, naming conventions and repository organization are left to the contributors and concensus per repository.
+Organization of each repository, and of project components not stored within GitHub or a git repository in general, are likely to have their own particular needs based on programming language, architectural choices, and sensibility. Aside from inclusion of LICENSE and other standard files to comply with the Code for Vegas open source development and publishing scheme, naming conventions and repository organization are left to the contributors and consensus per repository.
 
 ### Testing and Test Driven Development
 
 Always test your code. This is good advice anywhere and everywhere if you are a software developer (or really, if you make things of any kind, try them out and make sure they work).
 
-While each project, each repository, and each team or group of contributors working on any of these may adopt their own Best Practices by experience, practicality, concensus, etc, it is usually best to make a choice and follow through with it, and to inform newcomers of these practices.
+While each project, each repository, and each team or group of contributors working on any of these may adopt their own Best Practices by experience, practicality, consensus, etc, it is usually best to make a choice and follow through with it, and to inform newcomers of these practices.
 
-By default, Code for Vegas Projects should follow [Test Driven Development](https://www.agilealliance.org/glossary/tdd/) practices and methodologies. There are countless documents, tutorials, demonstrations, and examples in written, audio, and video form, and you yourself likely know someone who is an advocate of TDD. You may also know someone who is most definitely not an advociate of TDD.
+By default, Code for Vegas Projects should follow [Test Driven Development](https://www.agilealliance.org/glossary/tdd/) practices and methodologies. There are countless documents, tutorials, demonstrations, and examples in written, audio, and video form, and you yourself likely know someone who is an advocate of TDD. You may also know someone who is most definitely not an advocate of TDD.
 
 If TDD is not for you, the bare minimum __requirement__ is that test code be available, that test code is run and passes before code is committed to a repository (on any branch), and that these tests be executable in any automated or manual integration and deployment scheme, and that these tests pass.
 
@@ -72,7 +72,7 @@ If a test fails in an automated or manual integration and deployment pipeline or
 
 ### GitFlow vs CI/CD
 
-With distributed teams and schedules, voluntary time committments and differeing timelines, the use of [GitFlow](http://datasift.github.io/gitflow/IntroducingGitFlow.html) to organize code changes, feature changes, and other Pull Requests and Branching and whatnot, is sensible. A functional rhythm within a particular development team on a particular project component may deviate slightly from this workflow, but in order to enable easier onboarding of new contributors of varying skill levels, the GitFlow workflow baseline is a reasonable standard.
+With distributed teams and schedules, voluntary time commitments and differing timelines, the use of [GitFlow](http://datasift.github.io/gitflow/IntroducingGitFlow.html) to organize code changes, feature changes, and other Pull Requests and Branching and whatnot, is sensible. A functional rhythm within a particular development team on a particular project component may deviate slightly from this workflow, but in order to enable easier on-boarding of new contributors of varying skill levels, the GitFlow workflow baseline is a reasonable standard.
 
 However, GitFlow is not strictly compatible with Continuous Integration and Continuous Delivery/Deployment ideals. Using the typical *CI/CD* label is not always applicable.
 
@@ -88,7 +88,7 @@ There has been much written and said about the compatibility of GitFlow (or most
 
 Note that because a project may be made up of multiple repositories, not all code repositories on GitHub.com, some care must be taken to construct a monorepo if that is the desired strategy. Use of Git Submodules and Subtrees is one possibility, multi-repo tools in general should be adopted as needed per project.
 
-Since there may be so much variation in different types of projects and project components, best practices and the better judgement of participants and contributors shall take precidence, so long as the best interests of the Code for Vegas Foundation and its overarching goals are a guide (for example, enable and encourage others to spend time contributing to projects, not trying to reverse engineer how they are supposed to build and deploy).
+Since there may be so much variation in different types of projects and project components, best practices and the better judgment of participants and contributors shall take precedence, so long as the best interests of the Code for Vegas Foundation and its overarching goals are a guide (for example, enable and encourage others to spend time contributing to projects, not trying to reverse engineer how they are supposed to build and deploy).
 
 ### Commits and Comments
 
@@ -126,7 +126,7 @@ Contribution of creative work to any Code for Vegas project or project repositor
 
 ## Code of Conduct
 
-All participation in any aspect of contribution of creative work, and in the activities surrounding those contributions, whether virtual or in-person gatherings and work sessions, written correspondance, code comments, commit comments, issue reports and comments, project and repository discussions hosted on GitHub.com or elsewhere, or anything attached in any way to the Code for Vegas Foundation, shall adhere to the published CODE_OF_CONDUCT, available where you found this CONTRIBUTING document.
+All participation in any aspect of contribution of creative work, and in the activities surrounding those contributions, whether virtual or in-person gatherings and work sessions, written correspondence, code comments, commit comments, issue reports and comments, project and repository discussions hosted on GitHub.com or elsewhere, or anything attached in any way to the Code for Vegas Foundation, shall adhere to the published CODE_OF_CONDUCT, available where you found this CONTRIBUTING document.
 
 ## This Document
 
