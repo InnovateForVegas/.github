@@ -48,11 +48,22 @@ When in doubt, check the CODE_OF_CONDUCT document associated with this repositor
 
 The following are applicable to creative works that are source code or similar and which shall follow common and useful Best Practices for software development, described herein. Best Practices not described herein are left to project and repository teams to adopt and use in order to make developing the project and its components productive, educational, and enjoyable.
 
+## Getting Started
+
+A new repository should contain at least a README.md stub (always updatable), with at least a reference to this CONTRIBUTING.md and the CODE_OF_CONDUCT.md via links in that README.md file, if there are not to be overriding versions of these files in the new repository. That is, anyone cloning a repository should be able to locate these two files, whether included in the repo clone, or referenced in the organization special community health file locations. For example:
+
+### Project Policies
+
+Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Code for Vegas Foundation policies for Code of Conduct and Contributing, found at
+
+* [Code of Conduct - Code for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing to this Project - Code for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md)
+
 ### Naming Things
 
 Each Project will be comprised of many parts, some contained within repositories, others elsewhere. A top-level repository with this consistent naming scheme will help others to locate this top level and navigate the project component hierarchy: __ov-(project-name)__ .
 
-This is the top-level OverView repository, which will contain a high-level description of the project itself, a project specification if available, and any other relevant high-level resources and information. 
+This is the top-level OverView repository, which will contain a high-level description of the project itself, a project specification if available, and any other relevant high-level resources and information.
 
 Additional repositories added to the project should adhere to a similar naming scheme, for example, __be-(project-name)__ for backend code, __fe-(project-name)__ for frontend code, __doc-(project-name)__ for separate project documentation (perhaps including i18n and l10n work), and more may be added. This convention will, ideally, make navigating the GitHub repository organizational scheme (which is not much) easier as more repositories are added. Note that adding a suffix to __project-name__ is acceptable to indicate more detail (eg if there is more than one backend or frontend repo for a given project, for experimentation or other).
 
