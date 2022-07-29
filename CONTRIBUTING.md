@@ -48,6 +48,16 @@ When in doubt, check the CODE_OF_CONDUCT document associated with this repositor
 
 The following are applicable to creative works that are source code or similar and which shall follow common and useful Best Practices for software development, described herein. Best Practices not described herein are left to project and repository teams to adopt and use in order to make developing the project and its components productive, educational, and enjoyable.
 
+**Note:** Top-level projects will usually have a Project Overview repository (ov-project-name convention) and will be tagged, along with other project repositories, with a cfv- naming convention. To become familiar with existing projects if considering participation in one of these, or to suggest a new project, remember that this hierarchy enables contribution of new components to an existing top-level project in addition to starting a new top-level project.
+
+## Join a Project
+
+At any given time there may be more than one top-level project in progress in the Code for Vegas organization, found on GitHub or perhaps elsewhere for non-code-like projects. Until a better system is identified and implemented, projects participation is managed through the GitHub Teams feature, identifying the team members involved and meeting with them to discuss participation is a great early step. We encourage those interested in joining a project to bring curiosity, skill, or both, as long as there is also interest!
+
+## Start a Project
+
+If there is not an existing project already in progress, suggest one! At the time of this writing, a new project topic begins each month as the previous topic wraps up from ideation and innovation to the full stack of ideation, innovation, implementation, and integration. The project topics align for the most part with a capstone project, and also lean heavily toward civic utility, whether working directly with municipal partners from the start, or later as a project reaches some level of usability for consideration and possibly continued development. With all of this in mind, new project topic ideas, and new components to add to an existing project, are both welcome by way of additional discussion and consideration.
+
 ## Getting Started
 
 A new repository should contain at least a README.md stub (always updatable), with at least a reference to this CONTRIBUTING.md and the CODE_OF_CONDUCT.md via links in that README.md file, if there are not to be overriding versions of these files in the new repository. That is, anyone cloning a repository should be able to locate these two files, whether included in the repo clone, or referenced in the organization special community health file locations. For example:
@@ -67,7 +77,7 @@ This is the top-level OverView repository, which will contain a high-level descr
 
 Additional repositories added to the project should adhere to a similar naming scheme, for example, __be-(project-name)__ for backend code, __fe-(project-name)__ for frontend code, __doc-(project-name)__ for separate project documentation (perhaps including i18n and l10n work), and more may be added. This convention will, ideally, make navigating the GitHub repository organizational scheme (which is not much) easier as more repositories are added. Note that adding a suffix to __project-name__ is acceptable to indicate more detail (eg if there is more than one backend or frontend repo for a given project, for experimentation or other).
 
-Here is a tabluar example summary of some naming convention ideas that could make navigating a sea of repositories easier:
+Here is a tabular example summary of some naming convention ideas that could make navigating a sea of repositories easier:
 
 | Example Name       | Description                                                                            |
 |--------------------|----------------------------------------------------------------------------------------|
