@@ -33,6 +33,21 @@ with a hackathon meetup and final presentation for each, leading to
 the adding of new Projects (using github Project features, for now)
 here on GitHub and likely in other useful places (Figma comes to mind).
 
+## Projects
+
+Each of the top-level project areas we are working on has an Overview repository
+with at least a summary README.md file, including some reference links and other info.
+There is a naming scheme for projects, and we use tagging to help navigate a growing collection
+of repos here on GitHub. We are also exploring the use of GitHub Projects for issue tracking,
+
+|Project | Description                                                                                                                  |
+|---------------------------|-----------------------------------------------------------------------------------------------------------|
+|Open Transit               | Making it smart to move around our Smart City using open tools developed right here in and near Las Vegas |
+|Open Data Capture Platform | Crowd sourced open data for our Smart City                                                                |
+|Smart Social               | Tools for a Smart City to communicate with itself                                                         |
+|My Vegas                   | My Vegas is the Human Interface for our Smarter Smart City                                                |
+|vLocal                     | Privacy aware digital identity platform for locals                                                        |
+
 ## Join our Mailing List or This GitHub Organization
 
 We are assembling a mailing list to keep those interested in the loop,
