@@ -40,13 +40,15 @@ with at least a summary README.md file, including some reference links and other
 There is a naming scheme for projects, and we use tagging to help navigate a growing collection
 of repos here on GitHub. We are also exploring the use of GitHub Projects for issue tracking,
 
-|Project | Description                                                                                                                  |
+|Project                    | Description                                                                                               |
 |---------------------------|-----------------------------------------------------------------------------------------------------------|
 |Open Transit               | Making it smart to move around our Smart City using open tools developed right here in and near Las Vegas |
 |Open Data Capture Platform | Crowd sourced open data for our Smart City                                                                |
 |Smart Social               | Tools for a Smart City to communicate with itself                                                         |
 |My Vegas                   | My Vegas is the Human Interface for our Smarter Smart City                                                |
 |vLocal                     | Privacy aware digital identity platform for locals                                                        |
+
+Overview project repositories begin with **ov-** to be found more easily. All project repositories are tagged with **cfv-** prefixes in lieu of namespaces, to allow them to be grouped across various repo names.
 
 ## Join our Mailing List or This GitHub Organization
 
@@ -59,8 +61,9 @@ If you would like to be added to the mailing list, or this GitHub
 organization (CodeForVegas) please send an email to
 
 [AddMe @ CodeForVegas.org](mailto:addme@codeforvegas.org)
+[AddMe+GitHub @ CodeForVegas.org](mailto:addme+github@codeforvegas.org)
 
-## Stay Tuned!
+## Stay Tuned
 
 Our website and more information about all plans, projects, and
 participation are coming soon!
