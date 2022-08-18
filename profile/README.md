@@ -1,3 +1,22 @@
+<!--
+ Copyright (C) 2022 Code for Vegas Foundation
+ 
+ This file is part of github.
+ 
+ github is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ github is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License
+ along with github.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
 # Welcome to Code for Vegas on Github
 
 ## About the Code for Vegas Foundation
@@ -28,7 +47,7 @@ but it is **essential.** If you are reading this and do not use
 Github, you are still quite welcome to join in, and please share that
 sentiment with your neighbors, friends, and family!
 
-We have had several monthly, month-long projects as you read this, 
+We have had several monthly, month-long projects as you read this,
 with a hackathon meetup and final presentation for each, leading to
 the adding of new Projects (using github Project features, for now)
 here on GitHub and likely in other useful places (Figma comes to mind).
@@ -70,4 +89,3 @@ organization (CodeForVegas) please send an email to
 We are always updating our online presence, here on Github, on social media platforms, and on our own website(s), be sure to check them out!
 
 [Code for Vegas Foundation](https://codeforvegas.org)
-
