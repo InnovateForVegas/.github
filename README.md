@@ -17,9 +17,9 @@
  along with github.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# The Code for Vegas .github repository
+# The Code for Vegas Foundation .github repository
 
-Community Health files and our github profile content.
+Community Health files and our GitHub profile content.
 
 ## What
 
