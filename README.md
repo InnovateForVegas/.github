@@ -28,3 +28,5 @@ While we maintain our codeforvegas.org website for general consumption, the Gith
 Let us attempt to keep a public-facing update current and useful to someone finding the org here (via our own website, or maybe from elsewhere) as to our ongoing projects and partnerships, and maybe convince people to join in and participate!
 
 As of 16 June 2022, the Code for Vegas Foundation is a Nevada Nonprofit Corporation, which you may refer to casually as Code for Vegas and at the public website, codeforvegas.org, but which conducts business as Code for Vegas Foundation.
+
+As of 13 September 2022, our 1023 filing with the IRS has been submitted and our 501(c)(3) determination is pending. Donations made to support this oranization will be retroactively tax deductible once we receive our determination from the IRS.
