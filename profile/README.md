@@ -25,12 +25,10 @@ The original Code for Vegas *brigade* as it was took a very long break beginning
 
 ### Governance
 
-* President and Acting Secretary: Zach Gonzalez @ZachGonzalezz
-* Director and Acting Treasurer: Dan Hugo @DanHugoDanHugo
-* Director : Shawn Looker @slooker
+* Managing Director: [Dan Hugo](https://github.com/DanHugoDanHugo)
+* Director : [Shawn Looker](https://github.com/slooker)
 
-In the mean time, our local tech and non-tech scene is as alive as ever, which makes now a great time to get involved with making Las Vegas and surrounding areas a great place to live or visit. One way to do that is to join this effort and work with municipal partners and
-our local communities to identify where we can make a difference, and then make that difference happen!
+In the mean time, our local tech and non-tech scene is as alive as ever, which makes now a great time to get involved with making Las Vegas and surrounding areas a great place to live or visit. One way to do that is to join this effort and work with municipal partners and our local communities to identify where we can make a difference, and then make that difference happen!
 
 This is an inclusive organization from top to bottom. In fact, you can participate even if you have never and don't want to write Code. Non-technical contribution to your community is not only encouraged, but it is **essential.** If you are reading this and do not use GitHub, you are still quite welcome to join in, and please share that sentiment with your neighbors, friends, and family!
 
