@@ -21,7 +21,7 @@
 
 ## About the Code for Vegas Foundation
 
-The original Code for Vegas *brigade* as it was took a very long break beginning in February 2016, but has as of 16 June 2022 formed as a completely independent Nevada Nonprofit entity under the name *Code for Vegas Foundation* though you can still call us Code for Vegas unless you are writing checks… (we do not yet see a need to file a formal DBA).
+The original Code for Vegas *brigade* as it was took a very long break beginning in February 2016, but has as of 16 June 2022 formed as a completely independent Nevada Nonprofit entity under the name *Code for Vegas Foundation* though you can still call us Code for Vegas unless you are writing checks… (we do not yet see a need to file a formal DBA). Speaking of checks, our form 1023-EZ has been submitted to the IRS, our 501(c)(3) public charity determination is pending, donations made in the interim are still retroactively deducible!
 
 ### Governance
 
@@ -35,6 +35,16 @@ our local communities to identify where we can make a difference, and then make 
 This is an inclusive organization from top to bottom. In fact, you can participate even if you have never and don't want to write Code. Non-technical contribution to your community is not only encouraged, but it is **essential.** If you are reading this and do not use GitHub, you are still quite welcome to join in, and please share that sentiment with your neighbors, friends, and family!
 
 We have had several monthly, month-long projects as you read this, with a hackathon meetup and final presentation for each, leading to the adding of new Projects (using GitHub Project features, for now) here on GitHub and likely in other useful places (Figma comes to mind).
+
+## Donations
+
+We are a top-to-bottom volunteer organization. Those in governance and advisory roles (officers, directors, advisors, external committee members, and perhaps others) do not receive any form of salary or other compensation other than legitimate expense reimbursement where necessary. We are in this for the rewards found on the horizon.
+
+In order to obtain supplies, food and snacks for our Monthly Hackathon Meetups, printing of business cards, cloud hosting fees outside of free tiers, and other such things, will be paid for by these very same uncompensated volunteers, or by donations from the community and beyond. Ideally these will be individuals who are interested in supporting the efforts of their own local friends and family members, though we are certainly interested in hands-off sponsorship from larger entities if there is a good fit with our goals.
+
+Would you like to donate? Here is a hosted *donation* page at Stripe, your email address will be used to send a thank you note at least, and to provide updates if a donation is made during the determination window between 1023-EZ filing and actual receipt of our 501(c)(3) determination. As you read this the form has been submitted, so any donation will be deductible (technically since we formed our nonprofit, but either way, deductible).
+
+[External Donation Link to Strip.com](https://donate.stripe.com/5kA7sX79naDF6Ri4gg)
 
 ## Projects
 
