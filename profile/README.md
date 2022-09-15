@@ -44,7 +44,7 @@ In order to obtain supplies, food and snacks for our Monthly Hackathon Meetups, 
 
 Would you like to donate? Here is a hosted *donation* page at Stripe, your email address will be used to send a thank you note at least, and to provide updates if a donation is made during the determination window between 1023-EZ filing and actual receipt of our 501(c)(3) determination. As you read this the form has been submitted, so any donation will be deductible (technically since we formed our nonprofit, but either way, deductible).
 
-[External Donation Link to Strip.com](https://donate.stripe.com/5kA7sX79naDF6Ri4gg)
+[External Donation Link to Stripe.com](https://donate.stripe.com/5kA7sX79naDF6Ri4gg)
 
 ## Projects
 
