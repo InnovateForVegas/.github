@@ -71,11 +71,11 @@ Unless otherwise and specifically indicated with replacement files in this repos
 
 ### Naming Things
 
-Each Project will be comprised of many parts, some contained within repositories, others elsewhere. A top-level repository with this consistent naming scheme will help others to locate this top level and navigate the project component hierarchy: __ov-(project-name)__ .
+Each Project will be comprised of many parts, some contained within repositories, others elsewhere. A top-level repository with this consistent naming scheme will help others to locate this top level and navigate the project component hierarchy: **ov-(project-name)** .
 
 This is the top-level OverView repository, which will contain a high-level description of the project itself, a project specification if available, and any other relevant high-level resources and information.
 
-Additional repositories added to the project should adhere to a similar naming scheme, for example, __be-(project-name)__ for backend code, __fe-(project-name)__ for frontend code, __doc-(project-name)__ for separate project documentation (perhaps including i18n and l10n work), and more may be added. This convention will, ideally, make navigating the GitHub repository organizational scheme (which is not much) easier as more repositories are added. Note that adding a suffix to __project-name__ is acceptable to indicate more detail (eg if there is more than one backend or frontend repo for a given project, for experimentation or other).
+Additional repositories added to the project should adhere to a similar naming scheme, for example, **be-(project-name)** for backend code, **fe-(project-name)** for frontend code, **doc-(project-name)** for separate project documentation (perhaps including i18n and l10n work), and more may be added. This convention will, ideally, make navigating the GitHub repository organizational scheme (which is not much) easier as more repositories are added. Note that adding a suffix to **project-name** is acceptable to indicate more detail (eg if there is more than one backend or frontend repo for a given project, for experimentation or other).
 
 Here is a tabular example summary of some naming convention ideas that could make navigating a sea of repositories easier:
 
@@ -100,9 +100,9 @@ While each project, each repository, and each team or group of contributors work
 
 By default, Code for Vegas Projects should follow [Test Driven Development](https://www.agilealliance.org/glossary/tdd/) practices and methodologies. There are countless documents, tutorials, demonstrations, and examples in written, audio, and video form, and you yourself likely know someone who is an advocate of TDD. You may also know someone who is most definitely not an advocate of TDD.
 
-If TDD is not for you, the bare minimum __requirement__ is that test code be available, that test code is run and passes before code is committed to a repository (on any branch), and that these tests be executable in any automated or manual integration and deployment scheme, and that these tests pass.
+If TDD is not for you, the bare minimum **requirement** is that test code be available, that test code is run and passes before code is committed to a repository (on any branch), and that these tests be executable in any automated or manual integration and deployment scheme, and that these tests pass.
 
-If a test fails in an automated or manual integration and deployment pipeline or workflow, __resolving the test failure is the highest priority__.
+If a test fails in an automated or manual integration and deployment pipeline or workflow, **resolving the test failure is the highest priority**.
 
 ### GitFlow vs CI/CD
 
