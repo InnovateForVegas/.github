@@ -79,14 +79,16 @@ Additional repositories added to the project should adhere to a similar naming s
 
 Here is a tabular example summary of some naming convention ideas that could make navigating a sea of repositories easier:
 
-| Example Name       | Description                                                                            |
-|--------------------|----------------------------------------------------------------------------------------|
-| ov-project-name    | Overview repository, top-level summary README, specs, etc                              |
-| be-component-py    | A backend part of the project, written mostly in python                                |
-| fe-component-js    | A frontend part of the project, written in javascript                                  |
-| api-project-name   | A stand-alone API spec (OpenAPI, etc) separated from language/platform implementation  |
-| db-project-sql     | A database schema definition in sql                                                    |
-| doc-project        | Project documentation intended for external use (users, developers, etc)               |
+| Example Name       | Description                                                                                   |
+|--------------------|-----------------------------------------------------------------------------------------------|
+| ov-project-name    | Overview repository, top-level summary README, specs, etc                                     |
+| be-component-py    | A backend part of the project, written mostly in python                                       |
+| fe-component-js    | A frontend part of the project, written in javascript                                         |
+| api-project-name   | A stand-alone API coded spec (OpenAPI, etc) separated from language/platform implementation   |
+| db-project-sql     | A database schema definition in sql                                                           |
+| doc-project        | Project documentation intended for external use (users, developers, etc)                      |
+| app-project        | A stand-alone or native application component of a project                                    |
+| ui-project         | User Interface designs and elements, possibly in html, svg, or similar textual forms          |
 
 Organization of each repository, and of project components not stored within GitHub or a git repository in general, are likely to have their own particular needs based on programming language, architectural choices, and sensibility. Aside from inclusion of LICENSE and other standard files to comply with the Code for Vegas open source development and publishing scheme, naming conventions and repository organization are left to the contributors and consensus per repository.
 
