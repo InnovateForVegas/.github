@@ -50,14 +50,14 @@ Each of the top-level project areas we are working on has an Overview repository
 
 There is a naming scheme for projects, and we use tagging to help navigate a growing collection of repos here on GitHub. We are also exploring the use of GitHub Projects for issue tracking,
 
-|Project                    | Description                                                                                                 |
-|---------------------------|-------------------------------------------------------------------------------------------------------------|
-|Open Transit               | Making it smart to move around our Smart City using open tools developed right here in and near Las Vegas   |
-|Open Data Capture Platform | Crowd sourced open data for our Smart City                                                                  |
-|Smart Social               | Tools for a Smart City to communicate with itself                                                           |
-|My Vegas                   | My Vegas is the Human Interface for our Smarter Smart City                                                  |
-|vLocal                     | Privacy aware digital identity platform for locals                                                          |
-|Infrastructure for C for V | Tools, methods, docs, politics, best practices, etc for this organization and its projects and participants |
+|Project Overview                                                                            | Description                                                                                                 |
+|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+|[Open Transit](https://github.com/CodeForVegas/ov-open-transit)                             | Making it smart to move around our Smart City using open tools developed right here in and near Las Vegas   |
+|[Open Data Capture Platform](https://github.com/CodeForVegas/ov-open-data-capture-platform) | Crowd sourced open data for our Smart City                                                                  |
+|[Smart Social](https://github.com/CodeForVegas/ov-smart-social)                             | Tools for a Smart City to communicate with itself                                                           |
+|[My Vegas](https://github.com/CodeForVegas/ov-my-vegas)                                     | My Vegas is the Human Interface for our Smarter Smart City                                                  |
+|[vLocal](https://github.com/CodeForVegas/ov-vlocal)                                         | Privacy aware digital identity platform for locals                                                          |
+|[Infrastructure for C for V](https://github.com/CodeForVegas/ov-infrastructure-for-cforv)   | Tools, methods, docs, politics, best practices, etc for this organization and its projects and participants |
 
 Overview project repositories begin with **ov-** to be found more easily. All project repositories are tagged with **cfv-** prefixes in lieu of namespaces, to allow them to be grouped across various repo names.
 
