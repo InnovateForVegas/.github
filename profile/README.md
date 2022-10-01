@@ -58,6 +58,7 @@ There is a naming scheme for projects, and we use tagging to help navigate a gro
 |[My Vegas](https://github.com/CodeForVegas/ov-my-vegas)                                     | My Vegas is the Human Interface for our Smarter Smart City                                                  |
 |[vLocal](https://github.com/CodeForVegas/ov-vlocal)                                         | Privacy aware digital identity platform for locals                                                          |
 |[Infrastructure for C for V](https://github.com/CodeForVegas/ov-infrastructure-for-cforv)   | Tools, methods, docs, politics, best practices, etc for this organization and its projects and participants |
+|[Welcome](https://github.com/CodeForVegas/ov-welcome)                                       | A visitor version of the Human Interface for our Smarter Smart City                                         |
 
 Overview project repositories begin with **ov-** to be found more easily. All project repositories are tagged with **cfv-** prefixes in lieu of namespaces, to allow them to be grouped across various repo names.
 
