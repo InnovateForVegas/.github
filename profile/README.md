@@ -25,10 +25,12 @@ The original Code for Vegas *brigade* as it was took a very long break beginning
 
 ### Governance
 
+Our organization is extremely thin and all volunteer. That is, none of the people listed here, and possibly not listed here, who make our organization go, are doing so on a volunteer basis.
+
 * Managing Director: [Dan Hugo](https://github.com/DanHugoDanHugo)
 * Director : [Shawn Looker](https://github.com/slooker)
 
-In the mean time, our local tech and non-tech scene is as alive as ever, which makes now a great time to get involved with making Las Vegas and surrounding areas a great place to live or visit. One way to do that is to join this effort and work with municipal partners and our local communities to identify where we can make a difference, and then make that difference happen!
+Our local tech and non-tech scene is as alive as ever, which makes now a great time to get involved with making Las Vegas and surrounding areas a great place to live or visit. One way to do that is to join this effort and work with municipal partners and our local communities to identify where we can make a difference, and then make that difference happen!
 
 This is an inclusive organization from top to bottom. In fact, you can participate even if you have never and don't want to write Code. Non-technical contribution to your community is not only encouraged, but it is **essential.** If you are reading this and do not use GitHub, you are still quite welcome to join in, and please share that sentiment with your neighbors, friends, and family!
 
@@ -62,13 +64,21 @@ There is a naming scheme for projects, and we use tagging to help navigate a gro
 
 Overview project repositories begin with **ov-** to be found more easily. All project repositories are tagged with **cfv-** prefixes in lieu of namespaces, to allow them to be grouped across various repo names.
 
+## Inspiring Words
+
+[Raymon Loewy - MAYA - Familiar Surprise](https://uxdesign.cc/most-advanced-yet-acceptable-theory-meets-digital-product-innovation-f14897147dd5)
+
+    “To sell something surprising, make it familiar; to sell something familiar, make it surprising.”
+
+    — Raymond Loewy
+
 ## Join our Mailing List or This GitHub Organization
 
 We are assembling a mailing list to keep those interested in the loop, without needing to sign up for a Meetup or GitHub or some other account. We will not spam you, we will not sell your contact information, you may opt out at any time.
 
 If you would like to be added to the mailing list, or this GitHub organization (CodeForVegas) please send an email to
 
-[AddMe @ CodeForVegas.org](mailto:addme@codeforvegas.org)
+[AddMe+Listserv @ CodeForVegas.org](mailto:addme+listserv@codeforvegas.org)
 
 [AddMe+GitHub @ CodeForVegas.org](mailto:addme+github@codeforvegas.org)
 
