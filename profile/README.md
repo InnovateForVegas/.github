@@ -21,7 +21,7 @@
 
 ## About the Code for Vegas Foundation
 
-The original Code for Vegas *brigade* as it was took a very long break beginning in February 2016, but has as of 16 June 2022 formed as a completely independent Nevada Nonprofit entity under the name *Code for Vegas Foundation* though you can still call us Code for Vegas unless you are writing checks… (we do not yet see a need to file a formal DBA). Speaking of checks, our form 1023-EZ has been submitted to the IRS, our 501(c)(3) public charity determination is pending, donations made in the interim are still retroactively deducible!
+The original Code for Vegas *brigade* as it was took a very long break beginning in February 2016, but has as of 16 June 2022 formed as a completely independent Nevada Nonprofit entity under the name *Code for Vegas Foundation* though you can still call us Code for Vegas unless you are writing checks… (we do not yet see a need to file a formal DBA). Speaking of checks, we received our 501(c)(3) public charity determination letter on 12 October 2022, so donations made in the interim are retroactively deducible from 16 June 2022!
 
 ### Governance
 
@@ -42,7 +42,7 @@ We are a top-to-bottom volunteer organization. Those in governance and advisory 
 
 In order to obtain supplies, food and snacks for our Monthly Hackathon Meetups, printing of business cards, cloud hosting fees outside of free tiers, and other such things, will be paid for by these very same uncompensated volunteers, or by donations from the community and beyond. Ideally these will be individuals who are interested in supporting the efforts of their own local friends and family members, though we are certainly interested in hands-off sponsorship from larger entities if there is a good fit with our goals.
 
-Would you like to donate? Here is a hosted *donation* page at Stripe, your email address will be used to send a thank you note at least, and to provide updates if a donation is made during the determination window between 1023-EZ filing and actual receipt of our 501(c)(3) determination. As you read this the form has been submitted, so any donation will be deductible (technically since we formed our nonprofit, but either way, deductible).
+Would you like to donate? Here is a hosted *donation* page at Stripe, your email address will be used to send a thank you note… we have received our 501(c)(3) determination as of 12 October 2022, so that any donation will be deductible. This is not tax advice, please consult your tax preparation professional.
 
 [External Donation Link to Stripe.com](https://donate.stripe.com/5kA7sX79naDF6Ri4gg)
 
@@ -66,7 +66,7 @@ Overview project repositories begin with **ov-** to be found more easily. All pr
 
 ## Inspiring Words
 
-[Raymon Loewy - MAYA - Familiar Surprise](https://uxdesign.cc/most-advanced-yet-acceptable-theory-meets-digital-product-innovation-f14897147dd5)
+[Raymond Loewy - MAYA - Familiar Surprise](https://uxdesign.cc/most-advanced-yet-acceptable-theory-meets-digital-product-innovation-f14897147dd5)
 
     “To sell something surprising, make it familiar; to sell something familiar, make it surprising.”
 
