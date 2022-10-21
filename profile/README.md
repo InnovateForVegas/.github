@@ -19,6 +19,16 @@
 
 # Welcome to Code for Vegas Foundation on GitHub
 
+## Renaming our Foundation
+
+As you will read below, we have received our 501(c)(3) determination from the IRS, and so we are commencing the renaming of this foundation to better-align with inclusivity of volunteers from our greater community while also fitting in more closely with the nature of Las Vegas and surrounding areas, focused on innovation and entrepreneurialism.
+
+The legal renaming of our Foundation with the Nevada Secretary of State will take approximately three weeks once our final paperwork is submitted (we have a few minor amendments to file, though our purpose and other specifics will remain unchanged other than a single word change in the name of this Foundation). We will submit these amendments on 24 October 2022.
+
+After the name change is completed, we will update our various financial interfaces and our official name on record with the IRS. Our EIN and Nevada BusinessID will remain unchanged such that any donations or other financial engagements will be with the same entity, named as we were originally formed until the name update process completes. Hopefully this will not cause issues or concern.
+
+The name of this GitHub organization will also change to align with the new Foundation name. This will impact all cloned or otherwise forked repositories with an origin or other upstream pointing to this org named as CodeForVegas. Prior announcement and lead time to update the upstream location will take place in a timely fashion. All header files and other declarations will need to reference the new Foundation name and so a grand sweeping update will take place across all repos to accommodate the new name.
+
 ## About the Code for Vegas Foundation
 
 The original Code for Vegas *brigade* as it was took a very long break beginning in February 2016, but has as of 16 June 2022 formed as a completely independent Nevada Nonprofit entity under the name *Code for Vegas Foundation* though you can still call us Code for Vegas unless you are writing checks… (we do not yet see a need to file a formal DBA). Speaking of checks, we received our 501(c)(3) public charity determination letter on 12 October 2022, so donations made in the interim are retroactively deducible from 16 June 2022!
