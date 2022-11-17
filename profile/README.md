@@ -1,14 +1,14 @@
 <!--
- Copyright (C) 2022 Code for Vegas Foundation
+ Copyright (C) 2022 Innovate for Vegas Foundation
  
- This file is part of github.
+ This file is part of .github.
  
- github is free software: you can redistribute it and/or modify
+ .github is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation, either version 3 of the License, or
  (at your option) any later version.
  
- github is distributed in the hope that it will be useful,
+ .github is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  GNU General Public License for more details.
@@ -17,21 +17,23 @@
  along with github.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# Welcome to Code for Vegas Foundation on GitHub
+# Welcome to Innovate for Vegas Foundation on GitHub
+
+Formerly the CodeForVegas GitHub Organization and the Code for Vegas Foundation, we are changing!
 
 ## Renaming our Foundation
 
-As you will read below, we have received our 501(c)(3) determination from the IRS, and so we are commencing the renaming of this foundation to better-align with inclusivity of volunteers from our greater community while also fitting in more closely with the nature of Las Vegas and surrounding areas, focused on innovation and entrepreneurialism.
+As you will read below, we have received our 501(c)(3) determination from the IRS, and so we are commencing the renaming of this foundation to better-align with inclusivity of volunteers from our greater community while also fitting in more closely with the nature of Las Vegas and surrounding areas, focused on *innovation* and entrepreneurialism.
 
-The legal renaming of our Foundation with the Nevada Secretary of State will take approximately three weeks once our final paperwork is submitted (we have a few minor amendments to file, though our purpose and other specifics will remain unchanged other than a single word change in the name of this Foundation). We will submit these amendments on 24 October 2022.
+The legal renaming of our Foundation with the Nevada Secretary of State will take approximately three weeks once our final paperwork is submitted (we have a few minor amendments to file, though our purpose and other specifics will remain unchanged other than a single word change in the name of this Foundation).
 
 After the name change is completed, we will update our various financial interfaces and our official name on record with the IRS. Our EIN and Nevada BusinessID will remain unchanged such that any donations or other financial engagements will be with the same entity, named as we were originally formed until the name update process completes. Hopefully this will not cause issues or concern.
 
 The name of this GitHub organization will also change to align with the new Foundation name. This will impact all cloned or otherwise forked repositories with an origin or other upstream pointing to this org named as CodeForVegas. Prior announcement and lead time to update the upstream location will take place in a timely fashion. All header files and other declarations will need to reference the new Foundation name and so a grand sweeping update will take place across all repos to accommodate the new name.
 
-## About the Code for Vegas Foundation
+## About the Innovate for Vegas Foundation
 
-The original Code for Vegas *brigade* as it was took a very long break beginning in February 2016, but has as of 16 June 2022 formed as a completely independent Nevada Nonprofit entity under the name *Code for Vegas Foundation* though you can still call us Code for Vegas unless you are writing checks… (we do not yet see a need to file a formal DBA). Speaking of checks, we received our 501(c)(3) public charity determination letter on 12 October 2022, so donations made in the interim are retroactively deducible from 16 June 2022!
+The original Code for Vegas *brigade* as it was took a very long break beginning in February 2016, but had as of 16 June 2022 re-formed as a completely independent Nevada Nonprofit entity under the name *Code for Vegas Foundation*, which is not inclusive and causes confusion for those who do not refer to what they are interested in as *code*. To be more inclusive, we are renaming ourselves to the *Innovate for Vegas Foundation* and you can call us *Innovate for Vegas* if you like (unless you are writing us a check or otherwise donating to our cause, then please use the full name once the name change is complete; we do not yet see a need to file a formal DBA). Speaking of checks, we received our 501(c)(3) public charity determination letter on 12 October 2022, so donations made in the interim are retroactively deducible from 16 June 2022!
 
 ### Governance
 
@@ -56,21 +58,23 @@ Would you like to donate? Here is a hosted *donation* page at Stripe, your email
 
 [External Donation Link to Stripe.com](https://donate.stripe.com/5kA7sX79naDF6Ri4gg)
 
+**Remember**: until our legal name change is complete with the State of Nevada, and our updated name appears with the IRS associated with our EIN and 501(c)(3) status, and our various financial tools are updated to reflect our new name, you may see *Code for Vegas Foundation* and we would remind you that the update is in progress to change the one word in our name…
+
 ## Projects
 
 Each of the top-level project areas we are working on has an Overview repository with at least a summary README.md file, including some reference links and other info.
 
 There is a naming scheme for projects, and we use tagging to help navigate a growing collection of repos here on GitHub. We are also exploring the use of GitHub Projects for issue tracking,
 
-|Project Overview                                                                            | Description                                                                                                 |
-|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-|[Open Transit](https://github.com/CodeForVegas/ov-open-transit)                             | Making it smart to move around our Smart City using open tools developed right here in and near Las Vegas   |
-|[Open Data Capture Platform](https://github.com/CodeForVegas/ov-open-data-capture-platform) | Crowd sourced open data for our Smart City                                                                  |
-|[Smart Social](https://github.com/CodeForVegas/ov-smart-social)                             | Tools for a Smart City to communicate with itself                                                           |
-|[My Vegas](https://github.com/CodeForVegas/ov-my-vegas)                                     | My Vegas is the Human Interface for our Smarter Smart City                                                  |
-|[vLocal](https://github.com/CodeForVegas/ov-vlocal)                                         | Privacy aware digital identity platform for locals                                                          |
-|[Infrastructure for C for V](https://github.com/CodeForVegas/ov-infrastructure-for-cforv)   | Tools, methods, docs, politics, best practices, etc for this organization and its projects and participants |
-|[Welcome](https://github.com/CodeForVegas/ov-welcome)                                       | A visitor version of the Human Interface for our Smarter Smart City                                         |
+|Project Overview                                                                                | Description                                                                                                 |
+|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+|[Open Transit](https://github.com/InnovateForVegas/ov-open-transit)                             | Making it smart to move around our Smart City using open tools developed right here in and near Las Vegas   |
+|[Open Data Capture Platform](https://github.com/InnovateForVegas/ov-open-data-capture-platform) | Crowd sourced open data for our Smart City                                                                  |
+|[Smart Social](https://github.com/InnovateForVegas/ov-smart-social)                             | Tools for a Smart City to communicate with itself                                                           |
+|[My Vegas](https://github.com/InnovateForVegas/ov-my-vegas)                                     | My Vegas is the Human Interface for our Smarter Smart City                                                  |
+|[vLocal](https://github.com/InnovateForVegas/ov-vlocal)                                         | Privacy aware digital identity platform for locals                                                          |
+|[Infrastructure for C for V](https://github.com/InnovateForVegas/ov-infrastructure-for-cforv)   | Tools, methods, docs, politics, best practices, etc for this organization and its projects and participants |
+|[Welcome](https://github.com/InnovateForVegas/ov-welcome)                                       | A visitor version of the Human Interface for our Smarter Smart City                                         |
 
 Overview project repositories begin with **ov-** to be found more easily. All project repositories are tagged with **cfv-** prefixes in lieu of namespaces, to allow them to be grouped across various repo names.
 
@@ -86,14 +90,14 @@ Overview project repositories begin with **ov-** to be found more easily. All pr
 
 We are assembling a mailing list to keep those interested in the loop, without needing to sign up for a Meetup or GitHub or some other account. We will not spam you, we will not sell your contact information, you may opt out at any time.
 
-If you would like to be added to the mailing list, or this GitHub organization (CodeForVegas) please send an email to
+If you would like to be added to the mailing list, or this GitHub organization (InnovateForVegas) please send an email to
 
-[AddMe+Listserv @ CodeForVegas.org](mailto:addme+listserv@codeforvegas.org)
+[AddMe+Listserv @ InnovateForVegas.org](mailto:addme+listserv@innovateforvegas.org)
 
-[AddMe+GitHub @ CodeForVegas.org](mailto:addme+github@codeforvegas.org)
+[AddMe+GitHub @ InnovateForVegas.org](mailto:addme+github@innovateforvegas.org)
 
 ## Stay Tuned
 
 We are always updating our online presence, here on GitHub, on social media platforms, and on our own website(s), be sure to check them out!
 
-[Code for Vegas Foundation](https://codeforvegas.org)
+[Innovate for Vegas Foundation](https://innovateforvegas.org)

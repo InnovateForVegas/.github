@@ -1,8 +1,8 @@
 # Contributing to this Repository
 
-This is a default CONTRIBUTING file designed for all projects (coding projects and otherwise) owned and maintained by the Code for Vegas Foundation ("Code for Vegas"). This file may be modified per project and where appropriate, but should not compromise the fundamental ethos of the Code for Vegas Foundation and its population of Contributors of Creative Works.
+This is a default CONTRIBUTING file designed for all projects (coding projects and otherwise) owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas"). This file may be modified per project and where appropriate, but should not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works.
 
-A Code for Vegas Project ("project") is the sum of the time and creativity ("creative work") of those who add their creative work to a project in any way, and may be composed of zero or more Git Repositories located on GitHub.com or elsewhere, but may include other elements, such as multimedia, visual artwork, written word, and any other relevant items ("components") stored and tracked by other means ("repository"). Each of the components, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the project to which each belongs, unless otherwise indicated per repository.
+An Innovate for Vegas Project ("project") is the sum of the time and creativity ("creative work") of those who add their creative work to a project in any way, and may be composed of zero or more Git Repositories located on GitHub.com or elsewhere, but may include other elements, such as multimedia, visual artwork, written word, and any other relevant items ("components") stored and tracked by other means ("repository"). Each of the components, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the project to which each belongs, unless otherwise indicated per repository.
 
 A Contributor is any individual person or entity ("contributor") adding materially to a project or repository, by way of new creative work stored or otherwise included as a component of the project ("contribution").
 
@@ -20,7 +20,7 @@ Contributors and contributions to this project repository should adhere to the f
 
 Any and all creative work contributed to this project repository by any contributor must be owned by that contributor, or that contributor must obtain permission from the owner of the creative work explicitly granting permission to contribute that creative work to this repository.
 
-A contributor to this repository shall make any contributions such that they comply with, and will be governed by, the selected license for that project repository, irrevocably and in perpetuity. Contributor agrees to assign copyright of contributed creative work to the Code for Vegas Foundation, irrevocably and in perpetuity.
+A contributor to this repository shall make any contributions such that they comply with, and will be governed by, the selected license for that project repository, irrevocably and in perpetuity. Contributor agrees to assign copyright of contributed creative work to the Innovate for Vegas Foundation, irrevocably and in perpetuity.
 
 A particular project repository will be developed with a stated license, for example the selected software coding repository default is likely the gpl-3.0 license, though lgpl-3.0 or some similar license might be appropriate in some cases. If at any time during the life of a project or its component repositories, a change in license is necessary, contributors agree to such license changes and will be apprised if possible if and when such changes occur.
 
@@ -34,7 +34,7 @@ In cases where one single repository contains creative work with different appli
 
 ## Inclusivity + Diversity + Accessibility
 
-Contributors to this repository may be anywhere on a skills/experience spectrum. Teaching and learning are a part of the Code for Vegas mission and project development process, and so there may be instances where an incomplete or incorrect repository commit is attempted, a commit must be reversed, perhaps a comment updated, perhaps there was a forgotten file that needs to be added. These things happen. Learn from these and be aware that others may also be learning.
+Contributors to this repository may be anywhere on a skills/experience spectrum. Teaching and learning are a part of the Innovate for Vegas mission and project development process, and so there may be instances where an incomplete or incorrect repository commit is attempted, a commit must be reversed, perhaps a comment updated, perhaps there was a forgotten file that needs to be added. These things happen. Learn from these and be aware that others may also be learning.
 
 Most source code is typically authored in the development programming language of choice, with variable names, comments, and other documentation created for English-speaking developers (this may also apply to non-code projects, such as documentation, marketing materials, visual cues, audio content, etc). Be aware that some contributors may not speak English as a first language, such that spelling and grammar issues may arise. These are easily edited and are learning opportunities for all.
 
@@ -42,7 +42,7 @@ If possible, projects (code and otherwise) should be designed to be compatible w
 
 At any given point in the development of any project component (repository or otherwise), there may be deviations from these ideals. For example, if a translation to a particular language is not available, if internationalization is not completed for an entire project, if WAI-ARIA compliance is not completely implemented, etc. Every effort must be made to move any project in these directions to meet these goals when possible.
 
-When in doubt, check the CODE_OF_CONDUCT document associated with this repository and with Code for Vegas in general. When all else fails, be a [Good Person](https://www.thefreedictionary.com/good+person).
+When in doubt, check the CODE_OF_CONDUCT document associated with this repository and with Innovate for Vegas in general. When all else fails, be a [Good Person](https://www.thefreedictionary.com/good+person).
 
 ## Project Repository Details
 
@@ -52,7 +52,7 @@ The following are applicable to creative works that are source code or similar a
 
 ## Join a Project
 
-At any given time there may be more than one top-level project in progress in the Code for Vegas organization, found on GitHub or perhaps elsewhere for non-code-like projects. Until a better system is identified and implemented, projects participation is managed through the GitHub Teams feature, identifying the team members involved and meeting with them to discuss participation is a great early step. We encourage those interested in joining a project to bring curiosity, skill, or both, as long as there is also interest!
+At any given time there may be more than one top-level project in progress in the Innovate for Vegas organization, found on GitHub or perhaps elsewhere for non-code-like projects. Until a better system is identified and implemented, projects participation is managed through the GitHub Teams feature, identifying the team members involved and meeting with them to discuss participation is a great early step. We encourage those interested in joining a project to bring curiosity, skill, or both, as long as there is also interest!
 
 ## Start a Project
 
@@ -64,10 +64,10 @@ A new repository should contain at least a README.md stub (always updatable), wi
 
 ### Project Policies
 
-Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Code for Vegas Foundation policies for Code of Conduct and Contributing, found at
+Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
 
-* [Code of Conduct - Code for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
-* [Contributing to this Project - Code for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md)
+* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
 
 ### Naming Things
 
@@ -90,7 +90,7 @@ Here is a tabular example summary of some naming convention ideas that could mak
 | app-project        | A stand-alone or native application component of a project                                    |
 | ui-project         | User Interface designs and elements, possibly in html, svg, or similar textual forms          |
 
-Organization of each repository, and of project components not stored within GitHub or a git repository in general, are likely to have their own particular needs based on programming language, architectural choices, and sensibility. Aside from inclusion of LICENSE and other standard files to comply with the Code for Vegas open source development and publishing scheme, naming conventions and repository organization are left to the contributors and consensus per repository.
+Organization of each repository, and of project components not stored within GitHub or a git repository in general, are likely to have their own particular needs based on programming language, architectural choices, and sensibility. Aside from inclusion of LICENSE and other standard files to comply with the Innovate for Vegas open source development and publishing scheme, naming conventions and repository organization are left to the contributors and consensus per repository.
 
 ### Testing and Test Driven Development
 
@@ -98,7 +98,7 @@ Always test your code. This is good advice anywhere and everywhere if you are a 
 
 While each project, each repository, and each team or group of contributors working on any of these may adopt their own Best Practices by experience, practicality, consensus, etc, it is usually best to make a choice and follow through with it, and to inform newcomers of these practices.
 
-By default, Code for Vegas Projects should follow [Test Driven Development](https://www.agilealliance.org/glossary/tdd/) practices and methodologies. There are countless documents, tutorials, demonstrations, and examples in written, audio, and video form, and you yourself likely know someone who is an advocate of TDD. You may also know someone who is most definitely not an advocate of TDD.
+By default, Innovate for Vegas Projects should follow [Test Driven Development](https://www.agilealliance.org/glossary/tdd/) practices and methodologies. There are countless documents, tutorials, demonstrations, and examples in written, audio, and video form, and you yourself likely know someone who is an advocate of TDD. You may also know someone who is most definitely not an advocate of TDD.
 
 If TDD is not for you, the bare minimum **requirement** is that test code be available, that test code is run and passes before code is committed to a repository (on any branch), and that these tests be executable in any automated or manual integration and deployment scheme, and that these tests pass.
 
@@ -122,7 +122,7 @@ There has been much written and said about the compatibility of GitFlow (or most
 
 Note that because a project may be made up of multiple repositories, not all code repositories on GitHub.com, some care must be taken to construct a monorepo if that is the desired strategy. Use of Git Submodules and Subtrees is one possibility, multi-repo tools in general should be adopted as needed per project.
 
-Since there may be so much variation in different types of projects and project components, best practices and the better judgment of participants and contributors shall take precedence, so long as the best interests of the Code for Vegas Foundation and its overarching goals are a guide (for example, enable and encourage others to spend time contributing to projects, not trying to reverse engineer how they are supposed to build and deploy).
+Since there may be so much variation in different types of projects and project components, best practices and the better judgment of participants and contributors shall take precedence, so long as the best interests of the Innovate for Vegas Foundation and its overarching goals are a guide (for example, enable and encourage others to spend time contributing to projects, not trying to reverse engineer how they are supposed to build and deploy).
 
 ### Commits and Comments
 
@@ -148,23 +148,24 @@ Because many contributors will not be using GitHub.com for their (non-software o
 
 ## Attribution
 
-The Code for Vegas Foundation believes completely and totally in the notion that contributors of creative works, with as liberal a definition of "creative works" as can be imagined, shall receive attribution for their time, effort, and creativity.
+The Innovate for Vegas Foundation believes completely and totally in the notion that contributors of creative works, with as liberal a definition of "creative works" as can be imagined, shall receive attribution for their time, effort, and creativity.
 
-Where applicable, and where contributions are material and where the contributor has rights to contribute their creative work, attribution shall be made anywhere it is reasonable and useful to do so, including, but not limited to, an AUTHORS file within a repository, in project and component documentation, using attribution schemes on GitHub.com and with other similar tools and platforms, in any CodeForVegas.org website content, and elsewhere. This is not an exhaustive nor comprehensive description of accomplishing this intent, rather an indication that this intent is of the utmost priority.
+Where applicable, and where contributions are material and where the contributor has rights to contribute their creative work, attribution shall be made anywhere it is reasonable and useful to do so, including, but not limited to, an AUTHORS file within a repository, in project and component documentation, using attribution schemes on GitHub.com and with other similar tools and platforms, in any InnovateForVegas.org website content, any related website content, and elsewhere. This is not an exhaustive nor comprehensive description of accomplishing this intent, rather an indication that this intent is of the utmost priority.
 
-Wherever creative works and attribution can be added to a CV or used to indicate real world experience for the purposes of career development or job placement, the Code for Vegas Foundation will always provide references and detail based on all available attribution information. Thus we will ask that contribution of creative works be properly and correctly attributed throughout a project lifecycle.
+Wherever creative works and attribution can be added to a CV or used to indicate real world experience for the purposes of career development or job placement, the Innovate for Vegas Foundation will always provide references and detail based on all available attribution information. Thus we will ask that contribution of creative works be properly and correctly attributed throughout a project lifecycle.
 
 ## Warranties
 
-Contribution of creative work to any Code for Vegas project or project repository is made without warranty, express or implied.
+Contribution of creative work to any Innovate for Vegas project or project repository is made without warranty, express or implied.
 
 ## Code of Conduct
 
-All participation in any aspect of contribution of creative work, and in the activities surrounding those contributions, whether virtual or in-person gatherings and work sessions, written correspondence, code comments, commit comments, issue reports and comments, project and repository discussions hosted on GitHub.com or elsewhere, or anything attached in any way to the Code for Vegas Foundation, shall adhere to the published CODE_OF_CONDUCT, available where you found this CONTRIBUTING document.
+All participation in any aspect of contribution of creative work, and in the activities surrounding those contributions, whether virtual or in-person gatherings and work sessions, written correspondence, code comments, commit comments, issue reports and comments, project and repository discussions hosted on GitHub.com or elsewhere, or anything attached in any way to the Innovate for Vegas Foundation, shall adhere to the published CODE_OF_CONDUCT, available where you found this CONTRIBUTING document.
 
 ## This Document
 
-This original CONTRIBUTING document has been composed by and for the Code for Vegas Foundation by [Dan Hugo](https://github.com/DanHugoDanHugo). Please find the revision controlled version of this document with history in the GitHub.com [Code for Vegas organization](https://github.com/CodeForVegas) top-level repository at [CONTRIBUTING.md](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md).
+This original CONTRIBUTING document has been composed by and for the Innovate for Vegas Foundation by [Dan Hugo](https://github.com/DanHugoDanHugo). Please find the revision controlled version of this document with history in the GitHub.com [Innovate for Vegas Foundation organization](https://github.com/InnovateForVegas) top-level repository at [CONTRIBUTING.md](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md).
 
-This document is published with Copyright 2022 by the Code for Vegas Foundation
+This document is published with Copyright 2022 by the Innovate for Vegas Foundation
+
 This document is made available under the license of the repository in which is found, or under the [Creative Commons Attribution-ShareAlike 4.0 International License (cc-by-sa-4.0)](http://creativecommons.org/licenses/by-sa/4.0/) if there is no specified license present or available.
