@@ -76,7 +76,7 @@ There is a naming scheme for projects, and we use tagging to help navigate a gro
 |[Infrastructure](https://github.com/InnovateForVegas/ov-infrastructure)                         | Tools, methods, docs, politics, best practices, etc for this organization and its projects and participants |
 |[Welcome](https://github.com/InnovateForVegas/ov-welcome)                                       | A visitor version of the Human Interface for our Smarter Smart City                                         |
 
-Overview project repositories begin with **ov-** to be found more easily. All project repositories are tagged with **cfv-** prefixes in lieu of namespaces, to allow them to be grouped across various repo names.
+Overview project repositories begin with **ov-** to be found more easily. All project repositories are tagged with **ifv-** prefixes in lieu of namespaces, to allow them to be grouped across various repo names.
 
 ## Inspiring Words
 
