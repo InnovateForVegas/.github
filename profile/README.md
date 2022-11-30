@@ -14,7 +14,7 @@
  GNU General Public License for more details.
  
  You should have received a copy of the GNU General Public License
- along with github.  If not, see <http://www.gnu.org/licenses/>.
+ along with .github.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
 # Welcome to Innovate for Vegas Foundation on GitHub
@@ -46,7 +46,7 @@ Our local tech and non-tech scene is as alive as ever, which makes now a great t
 
 This is an inclusive organization from top to bottom. In fact, you can participate even if you have never and don't want to write Code. Non-technical contribution to your community is not only encouraged, but it is **essential.** If you are reading this and do not use GitHub, you are still quite welcome to join in, and please share that sentiment with your neighbors, friends, and family!
 
-We have had several monthly, month-long projects as you read this, with a hackathon meetup and final presentation for each, leading to the adding of new Projects (using GitHub Project features, for now) here on GitHub and likely in other useful places (Figma comes to mind).
+We have had several monthly, month-long projects as you read this, with a Hackathon Meetup and final presentation for each, leading to the adding of new Projects (using GitHub Project features, for now) here on GitHub and likely in other useful places (Figma comes to mind).
 
 ## Donations
 
@@ -78,15 +78,18 @@ There is a naming scheme for projects, and we use tagging to help navigate a gro
 
 Overview project repositories begin with **ov-** to be found more easily. All project repositories are tagged with **ifv-** prefixes in lieu of namespaces, to allow them to be grouped across various repo names.
 
-## Inspiring Words
+## Joining and Contributing
 
-[Raymond Loewy - MAYA - Familiar Surprise](https://uxdesign.cc/most-advanced-yet-acceptable-theory-meets-digital-product-innovation-f14897147dd5)
+We have default Community Health documents in the usual place which apply across our presence here on GitHub and beyond. Find them and refer to them as needed:
 
-    “To sell something surprising, make it familiar; to sell something familiar, make it surprising.”
+* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
 
-    — Raymond Loewy
+Please visit our own Howtos repository documenting how to get started with our organization:
 
-## Join our Mailing List or This GitHub Organization
+* [Foundation Howtos](https://github.com/InnovateForVegas/doc-org-howtos)
+
+### Join our Mailing List or This GitHub Organization
 
 We are assembling a mailing list to keep those interested in the loop, without needing to sign up for a Meetup or GitHub or some other account. We will not spam you, we will not sell your contact information, you may opt out at any time.
 
@@ -96,8 +99,20 @@ If you would like to be added to the mailing list, or this GitHub organization (
 
 [AddMe+GitHub @ InnovateForVegas.org](mailto:addme+github@innovateforvegas.org)
 
+## Inspiring Words
+
+[Raymond Loewy - MAYA - Familiar Surprise](https://uxdesign.cc/most-advanced-yet-acceptable-theory-meets-digital-product-innovation-f14897147dd5)
+
+    “To sell something surprising, make it familiar; to sell something familiar, make it surprising.”
+
+    — Raymond Loewy
+
 ## Stay Tuned
 
 We are always updating our online presence, here on GitHub, on social media platforms, and on our own website(s), be sure to check them out!
 
 [Innovate for Vegas Foundation](https://innovateforvegas.org)
+
+our legacy website will remain for some time to bridge the name change times.
+
+[Code for Vegas Foundation legacy website](https://codeforvegas.org)
