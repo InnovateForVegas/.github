@@ -31,6 +31,32 @@ After the name change is completed, we will update our various financial interfa
 
 The name of this GitHub organization will also change to align with the new Foundation name. This will impact all cloned or otherwise forked repositories with an origin or other upstream pointing to this org named as CodeForVegas. Prior announcement and lead time to update the upstream location will take place in a timely fashion. All header files and other declarations will need to reference the new Foundation name and so a grand sweeping update will take place across all repos to accommodate the new name.
 
+## Joining and Onboarding and Contributing
+
+We have default Community Health documents in the usual place which apply across our presence here on GitHub and beyond. Find them and refer to them as needed:
+
+[Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+
+[Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
+
+Please visit our own Howtos repository documenting how to get started with our organization and some basics about projects, tools, and a growing list of details and helpful hints:
+
+[Foundation Howtos](https://github.com/InnovateForVegas/doc-org-howtos)
+
+### Join our Mailing List or This GitHub Organization or Our Discord Server or…
+
+We are assembling a mailing list to keep those interested in the loop, without needing to sign up for a Discord or GitHub or some other account. We will not spam you, we will not sell your contact information, you may opt out at any time.
+
+If you would like to be added to the mailing list, or this GitHub organization (InnovateForVegas) please send an email to
+
+[AddMe+Listserv @ InnovateForVegas.org](mailto:addme+listserv@innovateforvegas.org)
+
+[AddMe+GitHub @ InnovateForVegas.org](mailto:addme+github@innovateforvegas.org)
+
+We have a Discord Server for discussion and engagement with our Communities at large (those who would like to participate through discussion or perhaps just lurking), feel free to join the discussion (our actual project efforts should still take place closer to the work, mostly on GitHub).
+
+[Innovate for Vegas Foundation Discord Server](https://discord.com/invite/gh5FAahd9P)
+
 ## About the Innovate for Vegas Foundation
 
 The original Code for Vegas *brigade* as it was took a very long break beginning in February 2016, but had as of 16 June 2022 re-formed as a completely independent Nevada Nonprofit entity under the name *Code for Vegas Foundation*, which is not inclusive and causes confusion for those who do not refer to what they are interested in as *code*. To be more inclusive, we are renaming ourselves to the *Innovate for Vegas Foundation* and you can call us *Innovate for Vegas* if you like (unless you are writing us a check or otherwise donating to our cause, then please use the full name once the name change is complete; we do not yet see a need to file a formal DBA). Speaking of checks, we received our 501(c)(3) public charity determination letter on 12 October 2022, so donations made in the interim are retroactively deducible from 16 June 2022!
@@ -77,27 +103,6 @@ There is a naming scheme for projects, and we use tagging to help navigate a gro
 |[Welcome](https://github.com/InnovateForVegas/ov-welcome)                                       | A visitor version of the Human Interface for our Smarter Smart City                                         |
 
 Overview project repositories begin with **ov-** to be found more easily. All project repositories are tagged with **ifv-** prefixes in lieu of namespaces, to allow them to be grouped across various repo names.
-
-## Joining and Contributing
-
-We have default Community Health documents in the usual place which apply across our presence here on GitHub and beyond. Find them and refer to them as needed:
-
-* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
-* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
-
-Please visit our own Howtos repository documenting how to get started with our organization:
-
-* [Foundation Howtos](https://github.com/InnovateForVegas/doc-org-howtos)
-
-### Join our Mailing List or This GitHub Organization
-
-We are assembling a mailing list to keep those interested in the loop, without needing to sign up for a Meetup or GitHub or some other account. We will not spam you, we will not sell your contact information, you may opt out at any time.
-
-If you would like to be added to the mailing list, or this GitHub organization (InnovateForVegas) please send an email to
-
-[AddMe+Listserv @ InnovateForVegas.org](mailto:addme+listserv@innovateforvegas.org)
-
-[AddMe+GitHub @ InnovateForVegas.org](mailto:addme+github@innovateforvegas.org)
 
 ## Inspiring Words
 
