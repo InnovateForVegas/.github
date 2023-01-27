@@ -50,6 +50,10 @@ The following are applicable to creative works that are source code or similar a
 
 **Note:** Top-level projects will usually have a Project Overview repository (ov-project-name convention) and will be tagged, along with other project repositories, with a cfv- naming convention. To become familiar with existing projects if considering participation in one of these, or to suggest a new project, remember that this hierarchy enables contribution of new components to an existing top-level project in addition to starting a new top-level project.
 
+### Main Branch Naming
+
+To be clear immediately, the global transition to *main* as a preferred default branch name over the legacy *master* is in effect for all Innovate for Vegas Foundation project repositories.
+
 ### Join a Project
 
 At any given time there may be more than one top-level project in progress in the Innovate for Vegas organization, found on GitHub or perhaps elsewhere for non-code-like projects. Until a better system is identified and implemented, projects participation is managed through the GitHub Teams feature, identifying the team members involved and meeting with them to discuss participation is a great early step. We encourage those interested in joining a project to bring curiosity, skill, or both, as long as there is also interest!
