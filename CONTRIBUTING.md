@@ -50,15 +50,15 @@ The following are applicable to creative works that are source code or similar a
 
 **Note:** Top-level projects will usually have a Project Overview repository (ov-project-name convention) and will be tagged, along with other project repositories, with a cfv- naming convention. To become familiar with existing projects if considering participation in one of these, or to suggest a new project, remember that this hierarchy enables contribution of new components to an existing top-level project in addition to starting a new top-level project.
 
-## Join a Project
+### Join a Project
 
 At any given time there may be more than one top-level project in progress in the Innovate for Vegas organization, found on GitHub or perhaps elsewhere for non-code-like projects. Until a better system is identified and implemented, projects participation is managed through the GitHub Teams feature, identifying the team members involved and meeting with them to discuss participation is a great early step. We encourage those interested in joining a project to bring curiosity, skill, or both, as long as there is also interest!
 
-## Start a Project
+### Start a Project
 
 If there is not an existing project already in progress, suggest one! At the time of this writing, a new project topic begins each month as the previous topic wraps up from ideation and innovation to the full stack of ideation, innovation, implementation, and integration. The project topics align for the most part with a capstone project, and also lean heavily toward civic utility, whether working directly with municipal partners from the start, or later as a project reaches some level of usability for consideration and possibly continued development. With all of this in mind, new project topic ideas, and new components to add to an existing project, are both welcome by way of additional discussion and consideration.
 
-## Getting Started
+### Getting Started
 
 A new repository should contain at least a README.md stub (always updatable), with at least a reference to this CONTRIBUTING.md and the CODE_OF_CONDUCT.md via links in that README.md file, if there are not to be overriding versions of these files in the new repository. That is, anyone cloning a repository should be able to locate these two files, whether included in the repo clone, or referenced in the organization special community health file locations. For example:
 
@@ -153,6 +153,32 @@ The Innovate for Vegas Foundation believes completely and totally in the notion 
 Where applicable, and where contributions are material and where the contributor has rights to contribute their creative work, attribution shall be made anywhere it is reasonable and useful to do so, including, but not limited to, an AUTHORS file within a repository, in project and component documentation, using attribution schemes on GitHub.com and with other similar tools and platforms, in any InnovateForVegas.org website content, any related website content, and elsewhere. This is not an exhaustive nor comprehensive description of accomplishing this intent, rather an indication that this intent is of the utmost priority.
 
 Wherever creative works and attribution can be added to a CV or used to indicate real world experience for the purposes of career development or job placement, the Innovate for Vegas Foundation will always provide references and detail based on all available attribution information. Thus we will ask that contribution of creative works be properly and correctly attributed throughout a project lifecycle.
+
+Note that GitHub (and GitLab, and less specifically but without causing any issues, git itself) supports several ways to attribute participation:
+
+* [GitHub CODEOWNERS Files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
+* [GitHub CITATION Files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+* [GitHub Co-author commit attribution](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
+
+GitHub et al. also support AUTHORS and CONTRIBUTORS files per repository, which enable explicit inclusion of (by convention):
+
+* **AUTHORS File** Copyright Holders and other legally responsible parties. For example, if you contribute to a project on behalf of a company or other entity, with permission, that company or entity would be listed in the AUTHORS file. Since copyright of the creative works in the Innovate for Vegas Foundation organization on GitHub, and elsewhere, is assigned to Innovate for Vegas Foundation, but individual contributors might retain copyright on their own original contributions outside of the organization project repositories (and elsewhere), Authors may include all or some of CODEOWNERS contributors.
+* **CONTRIBUTORS File** Any and all contributors to a project repository, including testers, collaborators, and any others who directly or indirectly enabled a particular project repository to become more valuable, useful, etc, and who would like attribution (opt-in).
+
+### Privacy
+
+Some may wish to obscure their email address(es), to enable this GitHub provides a *noreply* email address which may be used in place of a public email address for commit attribution and in other places listed above.
+
+For example, the original author of this file, Dan Hugo, could be referred to in commits, AUTHORS, and other places, as one of
+
+* DanHugoDanHugo <1445564+DanHugoDanHugo@users.noreply.github.com>
+* DanHugoDanHugo <dhugo@reallycool.com>
+
+The former is provided by GitHub to obscure a public email address, the latter is the default GitHub email address for user DanHugoDanHugo.
+
+For more information please visit:
+
+[GitHub Email Addresses](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
 
 ## Warranties
 
