@@ -19,19 +19,25 @@
 
 # Welcome to Innovate for Vegas Foundation on GitHub
 
-Formerly the CodeForVegas GitHub Organization and the Code for Vegas Foundation, we are changing!
+Formerly the CodeForVegas GitHub Organization and the Code for Vegas Foundation, we welcome all Innovators!
 
 ## Joining and Onboarding and Contributing
 
 We have default Community Health documents in the usual place which apply across our presence here on GitHub and beyond. Find them and refer to them as needed:
 
-[Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
-
-[Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
+* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
 
 Please visit our own Howtos repository documenting how to get started with our organization and some basics about projects, tools, and a growing list of details and helpful hints:
 
-[Foundation Howtos](https://github.com/InnovateForVegas/doc-org-howtos)
+* [Foundation Howtos](https://github.com/InnovateForVegas/doc-org-howtos)
+* [English Language Foundation Howtos](https://github.com/InnovateForVegas/doc-org-howtos/tree/main/doc/en)
+
+### Agile for Volunteers
+
+Effective 2023-03-01 our organization will implement and follow an adaptation of Agile methodology aimed at valuing the time of all volunteers contributing to any project or other effort while also enabling progress to be made on projects and their respective components.
+
+* [English Language Agile for Volunteers](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md)
 
 ### Join our Mailing List or This GitHub Organization or Our Discord Server or…
 
