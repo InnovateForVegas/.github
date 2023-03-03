@@ -83,7 +83,7 @@ If there is not an existing project already in progress, suggest one! At the tim
 
 ### Getting Started
 
-A new repository should contain at least a README.md stub (always updatable), with at least a reference to this CONTRIBUTING.md and the CODE_OF_CONDUCT.md via links in that README.md file, if there are not to be overriding versions of these files in the new repository. That is, anyone cloning a repository should be able to locate these two files, whether included in the repo clone, or referenced in the organization special community health file locations. For example:
+A new repository should contain at least a README.md stub (always updatable), with at least a reference to this CONTRIBUTING.md and the CODE_OF_CONDUCT.md via links in that README.md file, if there are not to be overriding versions of these files in the new repository. That is, anyone cloning a repository should be able to locate these two files, whether included in the repo clone, or referenced in the organization special community health file locations. See links in the Project Policies section below.
 
 ### Project Policies
 
