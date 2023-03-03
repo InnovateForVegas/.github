@@ -21,16 +21,6 @@
 
 Formerly the CodeForVegas GitHub Organization and the Code for Vegas Foundation, we are changing!
 
-## Renaming our Foundation
-
-As you will read below, we have received our 501(c)(3) determination from the IRS, and so we are commencing the renaming of this foundation to better-align with inclusivity of volunteers from our greater community while also fitting in more closely with the nature of Las Vegas and surrounding areas, focused on *innovation* and entrepreneurialism.
-
-The legal renaming of our Foundation with the Nevada Secretary of State will take approximately three weeks once our final paperwork is submitted (we have a few minor amendments to file, though our purpose and other specifics will remain unchanged other than a single word change in the name of this Foundation).
-
-After the name change is completed, we will update our various financial interfaces and our official name on record with the IRS. Our EIN and Nevada BusinessID will remain unchanged such that any donations or other financial engagements will be with the same entity, named as we were originally formed until the name update process completes. Hopefully this will not cause issues or concern.
-
-The name of this GitHub organization will also change to align with the new Foundation name. This will impact all cloned or otherwise forked repositories with an origin or other upstream pointing to this org named as CodeForVegas. Prior announcement and lead time to update the upstream location will take place in a timely fashion. All header files and other declarations will need to reference the new Foundation name and so a grand sweeping update will take place across all repos to accommodate the new name.
-
 ## Joining and Onboarding and Contributing
 
 We have default Community Health documents in the usual place which apply across our presence here on GitHub and beyond. Find them and refer to them as needed:
@@ -56,6 +46,16 @@ If you would like to be added to the mailing list, or this GitHub organization (
 We have a Discord Server for discussion and engagement with our Communities at large (those who would like to participate through discussion or perhaps just lurking), feel free to join the discussion (our actual project efforts should still take place closer to the work, mostly on GitHub).
 
 [Innovate for Vegas Foundation Discord Server](https://discord.com/invite/gh5FAahd9P)
+
+## Renaming our Foundation
+
+As you will read below, we have received our 501(c)(3) determination from the IRS, and so we are commencing the renaming of this foundation to better-align with inclusivity of volunteers from our greater community while also fitting in more closely with the nature of Las Vegas and surrounding areas, focused on *innovation* and entrepreneurialism.
+
+The legal renaming of our Foundation with the Nevada Secretary of State will take approximately three weeks once our final paperwork is submitted (we have a few minor amendments to file, though our purpose and other specifics will remain unchanged other than a single word change in the name of this Foundation).
+
+After the name change is completed, we will update our various financial interfaces and our official name on record with the IRS. Our EIN and Nevada BusinessID will remain unchanged such that any donations or other financial engagements will be with the same entity, named as we were originally formed until the name update process completes. Hopefully this will not cause issues or concern.
+
+The name of this GitHub organization will also change to align with the new Foundation name. This will impact all cloned or otherwise forked repositories with an origin or other upstream pointing to this org named as CodeForVegas. Prior announcement and lead time to update the upstream location will take place in a timely fashion. All header files and other declarations will need to reference the new Foundation name and so a grand sweeping update will take place across all repos to accommodate the new name.
 
 ## About the Innovate for Vegas Foundation
 
