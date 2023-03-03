@@ -72,8 +72,6 @@ Our local tech and non-tech scene is as alive as ever, which makes now a great t
 
 This is an inclusive organization from top to bottom. In fact, you can participate even if you have never and don't want to write Code. Non-technical contribution to your community is not only encouraged, but it is **essential.** If you are reading this and do not use GitHub, you are still quite welcome to join in, and please share that sentiment with your neighbors, friends, and family!
 
-We have had several monthly, month-long projects as you read this, with a Hackathon Meetup and final presentation for each, leading to the adding of new Projects (using GitHub Project features, for now) here on GitHub and likely in other useful places (Figma comes to mind).
-
 ## Donations
 
 We are a top-to-bottom volunteer organization. Those in governance and advisory roles (officers, directors, advisors, external committee members, and perhaps others) do not receive any form of salary or other compensation other than legitimate expense reimbursement where necessary. We are in this for the rewards found on the horizon.
@@ -87,6 +85,8 @@ Would you like to donate? Here is a hosted *donation* page at Stripe, your email
 **Remember**: until our legal name change is complete with the State of Nevada, and our updated name appears with the IRS associated with our EIN and 501(c)(3) status, and our various financial tools are updated to reflect our new name, you may see *Code for Vegas Foundation* and we would remind you that the update is in progress to change the one word in our name…
 
 ## Projects
+
+We have Monthly Hackathon Meetups in order to develop in-person collaboration momentum within our organization.
 
 Each of the top-level project areas we are working on has an Overview repository with at least a summary README.md file, including some reference links and other info.
 
