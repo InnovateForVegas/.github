@@ -85,6 +85,12 @@ If there is not an existing project already in progress, suggest one! At the tim
 
 A new repository should contain at least a README.md stub (always updatable), with at least a reference to this CONTRIBUTING.md and the CODE_OF_CONDUCT.md via links in that README.md file, if there are not to be overriding versions of these files in the new repository. That is, anyone cloning a repository should be able to locate these two files, whether included in the repo clone, or referenced in the organization special community health file locations. See links in the Project Policies section below.
 
+### Collaboration
+
+Each project, and each project team per project component or project repository, may choose to follow a particular project management and workflow style that suits the team and the project or project component.
+
+Unless such a specific override is enacted, all contribution to any Innovate for Vegas project or project component or project repository shall follow the Agile for Volunteers principles outlined in the organization HOWTO documentation, with English language version at [HOWTO: Agile for Volunteers](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md).
+
 ### Project Policies
 
 Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
