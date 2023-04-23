@@ -41,17 +41,20 @@ Effective 2023-03-01 our organization will implement and follow an adaptation of
 
 ### Join our Mailing List or This GitHub Organization or Our Discord Server or…
 
+We are making use of Organization Discussions here on GitHub for the items closer to our work, please participate in these rather than spreading operational items across forums and channels:
+
+* [Innovate for Vegas Discussions](https://github.com/orgs/InnovateForVegas/discussions)
+
 We are assembling a mailing list to keep those interested in the loop, without needing to sign up for a Discord or GitHub or some other account. We will not spam you, we will not sell your contact information, you may opt out at any time.
 
 If you would like to be added to the mailing list, or this GitHub organization (InnovateForVegas) please send an email to
 
-[AddMe+Listserv @ InnovateForVegas.org](mailto:addme+listserv@innovateforvegas.org)
-
-[AddMe+GitHub @ InnovateForVegas.org](mailto:addme+github@innovateforvegas.org)
+* [AddMe+Listserv @ InnovateForVegas.org](mailto:addme+listserv@innovateforvegas.org)
+* [AddMe+GitHub @ InnovateForVegas.org](mailto:addme+github@innovateforvegas.org)
 
 We have a Discord Server for discussion and engagement with our Communities at large (those who would like to participate through discussion or perhaps just lurking), feel free to join the discussion (our actual project efforts should still take place closer to the work, mostly on GitHub).
 
-[Innovate for Vegas Foundation Discord Server](https://discord.com/invite/gh5FAahd9P)
+* [Innovate for Vegas Foundation Discord Server](https://discord.com/invite/gh5FAahd9P)
 
 ## Renaming our Foundation
 
@@ -122,8 +125,8 @@ Overview project repositories begin with **ov-** to be found more easily. All pr
 
 We are always updating our online presence, here on GitHub, on social media platforms, and on our own website(s), be sure to check them out!
 
-[Innovate for Vegas Foundation](https://innovateforvegas.org)
+* [Innovate for Vegas Foundation](https://innovateforvegas.org)
 
 our legacy website will remain for some time to bridge the name change times.
 
-[Code for Vegas Foundation legacy website](https://codeforvegas.org)
+* [Code for Vegas Foundation legacy website](https://codeforvegas.org)
