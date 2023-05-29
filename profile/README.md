@@ -126,7 +126,3 @@ Overview project repositories begin with **ov-** to be found more easily. All pr
 We are always updating our online presence, here on GitHub, on social media platforms, and on our own website(s), be sure to check them out!
 
 * [Innovate for Vegas Foundation](https://innovateforvegas.org)
-
-our legacy website will remain for some time to bridge the name change times.
-
-* [Code for Vegas Foundation legacy website](https://codeforvegas.org)
