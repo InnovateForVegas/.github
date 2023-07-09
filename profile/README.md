@@ -72,7 +72,7 @@ The original Code for Vegas *brigade* as it was took a very long break beginning
 
 ### Governance
 
-Our organization is extremely thin and all volunteer. That is, none of the people listed here, and possibly not listed here, who make our organization go, are doing so on a volunteer basis.
+Our organization is extremely thin and all volunteer. That is, none of the people listed here, and possibly not listed here, who make our organization go, are doing so without compensation, completely on a volunteer basis.
 
 * Managing Director: [Dan Hugo](https://github.com/DanHugoDanHugo)
 * Director : [Shawn Looker](https://github.com/slooker)
