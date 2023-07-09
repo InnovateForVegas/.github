@@ -76,6 +76,7 @@ Our organization is extremely thin and all volunteer. That is, none of the peopl
 
 * Managing Director: [Dan Hugo](https://github.com/DanHugoDanHugo)
 * Director : [Shawn Looker](https://github.com/slooker)
+* Director : [Mary Norris](https://github.com/maryfnorris)
 
 Our local tech and non-tech scene is as alive as ever, which makes now a great time to get involved with making Las Vegas and surrounding areas a great place to live or visit. One way to do that is to join this effort and work with municipal partners and our local communities to identify where we can make a difference, and then make that difference happen!
 
