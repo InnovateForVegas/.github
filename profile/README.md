@@ -107,7 +107,7 @@ There is a naming scheme for projects, and we use tagging to help navigate a gro
 |[Open Transit](https://github.com/InnovateForVegas/ov-open-transit)                             | Making it smart to move around our Smart City using open tools developed right here in and near Las Vegas   |
 |[Open Data Capture Platform](https://github.com/InnovateForVegas/ov-open-data-capture-platform) | Crowd sourced open data for our Smart City                                                                  |
 |[Smart Social](https://github.com/InnovateForVegas/ov-smart-social)                             | Tools for a Smart City to communicate with itself                                                           |
-|[My Vegas](https://github.com/InnovateForVegas/ov-my-vegas)                                     | My Vegas is the Human Interface for our Smarter Smart City                                                  |
+|[My Muni](https://github.com/InnovateForVegas/ov-my-muni)                                       | My Muni is the Human Interface for our Smarter Smart City                                                  |
 |[vLocal](https://github.com/InnovateForVegas/ov-vlocal)                                         | Privacy aware digital identity platform for locals                                                          |
 |[Infrastructure](https://github.com/InnovateForVegas/ov-infrastructure)                         | Tools, methods, docs, politics, best practices, etc for this organization and its projects and participants |
 |[Welcome](https://github.com/InnovateForVegas/ov-welcome)                                       | A visitor version of the Human Interface for our Smarter Smart City                                         |
