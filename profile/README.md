@@ -35,7 +35,7 @@ Please visit our own Howtos repository documenting how to get started with our o
 
 ### Agile for Volunteers
 
-Effective 2023-03-01 our organization will implement and follow an adaptation of Agile methodology aimed at valuing the time of all volunteers contributing to any project or other effort while also enabling progress to be made on projects and their respective components.
+Our organization implemented and is follow an adaptation of Agile Methodology aimed at valuing the time of all volunteers contributing to any project or other effort while also enabling progress to be made on projects and their respective components.
 
 * [English Language Agile for Volunteers](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md)
 
