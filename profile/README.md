@@ -19,7 +19,7 @@
 
 # Welcome to Innovate for Vegas Foundation on GitHub
 
-Formerly the CodeForVegas GitHub Organization and the Code for Vegas Foundation, we welcome all Innovators!
+Formerly the CodeForVegas GitHub Organization and the Code for Vegas Foundation, now focused on not just code, but all forms of Innovation!
 
 ## Joining and Onboarding and Contributing
 
@@ -41,15 +41,18 @@ Our organization implemented and is follow an adaptation of Agile Methodology ai
 
 ### Join our Mailing List or This GitHub Organization or Our Discord Server or…
 
-We are making use of Organization Discussions here on GitHub for the items closer to our work, please participate in these rather than spreading operational items across forums and channels:
+We are making use of Organization Discussions here on GitHub for the items closer to our work, please participate in these rather than spreading operational items across other forums and channels (even our own Discord server):
 
 * [Innovate for Vegas Discussions](https://github.com/orgs/InnovateForVegas/discussions)
 
 We are assembling a mailing list to keep those interested in the loop, without needing to sign up for a Discord or GitHub or some other account. We will not spam you, we will not sell your contact information, you may opt out at any time.
 
-If you would like to be added to the mailing list, or this GitHub organization (InnovateForVegas) please send an email to
+If you would like to be added to the mailing list, please send an email to
 
 * [AddMe+Listserv @ InnovateForVegas.org](mailto:addme+listserv@innovateforvegas.org)
+
+If you would like to be added to this GitHub organization (InnovateForVegas), please describe how you would like to participate in the organization and its projects in an email sent to
+
 * [AddMe+GitHub @ InnovateForVegas.org](mailto:addme+github@innovateforvegas.org)
 
 We have a Discord Server for discussion and engagement with our Communities at large (those who would like to participate through discussion or perhaps just lurking), feel free to join the discussion (our actual project efforts should still take place closer to the work, mostly on GitHub).
@@ -82,6 +85,8 @@ Our local tech and non-tech scene is as alive as ever, which makes now a great t
 
 This is an inclusive organization from top to bottom. In fact, you can participate even if you have never and don't want to write Code. Non-technical contribution to your community is not only encouraged, but it is **essential.** If you are reading this and do not use GitHub, you are still quite welcome to join in, and please share that sentiment with your neighbors, friends, and family!
 
+Note that due to lack of participation within the Greater Vegas region, we are focusing more on remote participation from anywhere on the planet, collaborating with others to enable and encourage our values elsewhere and vice versa!
+
 ## Donations
 
 We are a top-to-bottom volunteer organization. Those in governance and advisory roles (officers, directors, advisors, external committee members, and perhaps others) do not receive any form of salary or other compensation other than legitimate expense reimbursement where necessary. We are in this for the rewards found on the horizon.
@@ -96,9 +101,7 @@ Would you like to donate? Here is a hosted *donation* page at Stripe, your email
 
 ## Projects
 
-We have Monthly Hackathon Meetups in order to develop in-person collaboration momentum within our organization.
-
-Each of the top-level project areas we are working on has an Overview repository with at least a summary README.md file, including some reference links and other info.
+Each of the top-level project areas we are working on has an Overview repository with at least a summary README.md file, including some reference links and other info. These will ideally be developed collaboratively using the Agile for Volunteers approach, ie these are not specs handed down from on high, but project goals developed by those working on and benefiting in some way from these projects (as members of our communities at large…).
 
 There is a naming scheme for projects, and we use tagging to help navigate a growing collection of repos here on GitHub. We are also exploring the use of GitHub Projects for issue tracking,
 
