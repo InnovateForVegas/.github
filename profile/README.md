@@ -63,11 +63,7 @@ We have a Discord Server for discussion and engagement with our Communities at l
 
 As you will read below, we have received our 501(c)(3) determination from the IRS, and so we are commencing the renaming of this foundation to better-align with inclusivity of volunteers from our greater community while also fitting in more closely with the nature of Las Vegas and surrounding areas, focused on *innovation* and entrepreneurialism.
 
-The legal renaming of our Foundation with the Nevada Secretary of State will take approximately three weeks once our final paperwork is submitted (we have a few minor amendments to file, though our purpose and other specifics will remain unchanged other than a single word change in the name of this Foundation).
-
-After the name change is completed, we will update our various financial interfaces and our official name on record with the IRS. Our EIN and Nevada BusinessID will remain unchanged such that any donations or other financial engagements will be with the same entity, named as we were originally formed until the name update process completes. Hopefully this will not cause issues or concern.
-
-The name of this GitHub organization will also change to align with the new Foundation name. This will impact all cloned or otherwise forked repositories with an origin or other upstream pointing to this org named as CodeForVegas. Prior announcement and lead time to update the upstream location will take place in a timely fashion. All header files and other declarations will need to reference the new Foundation name and so a grand sweeping update will take place across all repos to accommodate the new name.
+Our legal name change in Nevada is effect 8 September 2023. The name change with the IRS per our 990 filing will occur after that, and our EIN name change in a similar time frame, so that our financial institutions and other resources attached to our formal name can be updated. Please be patient through this process if you are sponsoring or donating or generally interacting with our organization such that *Code for Vegas Foundation* appears as our current name (that will change).
 
 ## About the Innovate for Vegas Foundation
 
