@@ -65,7 +65,7 @@ The original Code for Vegas *brigade* (before there were brigades) as it was too
 
 *To enable and encourage Ideation, Innovation, and Implementation to make our communities better.*
 
-For more information about our organization, the status of our renaming, and relevant State and Federal database search locations if you are curious, please visit [here](legal.md)
+For more information about our organization, the status of our renaming, and relevant State and Federal database search locations if you are curious, please visit [here](https://github.com/InnovateForVegas/.github/blob/main/profile/legal.md)
 
 ### Governance
 
