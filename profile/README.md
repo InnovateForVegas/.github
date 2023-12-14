@@ -59,19 +59,17 @@ We have a Discord Server for discussion and engagement with our Communities at l
 
 * [Innovate for Vegas Foundation Discord Server](https://discord.com/invite/gh5FAahd9P)
 
-## Renaming our Foundation
-
-As you will read below, we have received our 501(c)(3) determination from the IRS, after which we decided to rename this foundation to better-align with inclusivity of volunteers from our greater community while also fitting in more closely with the nature of Las Vegas and surrounding areas, focused on *innovation* and entrepreneurialism.
-
-Our legal name change in Nevada was effective on 8 September 2023. The name change with the IRS per our 990 filing will occur after that, and our EIN name change in a similar time frame, so that our financial institutions and other resources attached to our formal entity name can be updated. Please be patient through this process if you are sponsoring or donating or generally interacting with our organization wherever *Code for Vegas Foundation* appears as our entity name until all updates have completed.
-
 ## About the Innovate for Vegas Foundation
 
-The original Code for Vegas *brigade* (before there were brigades) as it was took a very long break beginning in February 2016, but had as of 16 June 2022 re-formed as a completely independent Nevada Nonprofit entity under the name *Code for Vegas Foundation*, which is not inclusive and causes confusion for those who do not refer to what they are interested in as *code*. To be more inclusive, we have renamed ourselves as described above, though you can call us *Innovate for Vegas* if you like (unless you are writing us a check or otherwise donating to our cause, then please use the full name once the name change is complete on our accounts). Speaking of checks, we received our 501(c)(3) public charity determination letter on 12 October 2022.
+The original Code for Vegas *brigade* (before there were brigades) as it was took a very long break beginning in February 2016, but had as of 16 June 2022 re-formed as a completely independent Nevada Nonprofit. Today we are a Nevada Nonprofit 501(c)(3) Public Charity in good standing, our official **Purpose Statement**:
+
+*To enable and encourage Ideation, Innovation, and Implementation to make our communities better.*
+
+For more information about our organization, the status of our renaming, and relevant State and Federal database search locations if you are curious, please visit [here](legal.md)
 
 ### Governance
 
-Our organization is extremely thin and all volunteer. That is, none of the people listed here, and possibly not listed here, who make our organization go, are doing so without compensation, completely on a volunteer basis.
+Our organization is extremely thin and **all volunteer**. That is, none of the people listed here, and possibly not listed here, who make our organization go, are doing so without compensation, completely on a volunteer basis.
 
 * Managing Director: [Dan Hugo](https://github.com/DanHugoDanHugo)
 * Director : [Shawn Looker](https://github.com/slooker)
