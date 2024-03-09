@@ -25,19 +25,19 @@ Formerly the CodeForVegas GitHub Organization and the Code for Vegas Foundation,
 
 We have default Community Health documents in the usual place which apply across our presence here on GitHub and beyond. Find them and refer to them as needed:
 
-* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
-* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
+[![Button Conduct]][CONDUCT]
+[![Button Contribute]][CONTRIBUTING]
 
-Please visit our own Howtos repository documenting how to get started with our organization and some basics about projects, tools, and a growing list of details and helpful hints:
+Please visit our **Howtos** repository documenting how to get started with our organization and some basics about projects, tools, and a growing list of details and helpful hints:
 
-* [Foundation Howtos](https://github.com/InnovateForVegas/doc-org-howtos)
-* [English Language Foundation Howtos](https://github.com/InnovateForVegas/doc-org-howtos/tree/main/doc/en)
+[![Button Howto]][HOWTO]
+[![Button HowtoEn]][HOWTOEN]
 
 ### Agile for Volunteers
 
 Our organization implemented and is follow an adaptation of Agile Methodology aimed at valuing the time of all volunteers contributing to any project or other effort while also enabling progress to be made on projects and their respective components.
 
-* [English Language Agile for Volunteers](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md)
+[![Button Agile]][AGILE]
 
 ### Join our Mailing List or This GitHub Organization or Our Discord Server or…
 
@@ -126,3 +126,15 @@ Overview project repositories begin with **ov-** to be found more easily. All pr
 We are always updating our online presence, here on GitHub, on social media platforms, and on our own website(s), be sure to check them out!
 
 * [Innovate for Vegas Foundation](https://innovateforvegas.org)
+
+<!------------------------------------------>
+[Button Conduct]: https://img.shields.io/badge/Code%20of%20Conduct-lightblue?style=for-the-badge
+[Button Contribute]: https://img.shields.io/badge/Contributing-lightblue?style=for-the-badge
+[Button Agile]: https://img.shields.io/badge/Agile%20for%Volunteers-lightblue?style=for-the-badge
+[Button Howto]: https://img.shields.io/badge/HowTos-lightblue?style=for-the-badge
+[Button HowtoEn]: https://img.shields.io/badge/HowTos%20English-lightblue?style=for-the-badge
+[CONDUCT]: https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md 'Foundation Code of Conduct'
+[CONTRIBUTING]: https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md 'Foundation Contributing Guidelines'
+[AGILE]: https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md 'Agile for Volunteers'
+[HOWTO]: https://github.com/InnovateForVegas/doc-org-howtos 'Organization HowTos'
+[HOWTOEN]: https://github.com/InnovateForVegas/doc-org-howtos/tree/main/doc/en 'Organization HowTos in English'
