@@ -90,7 +90,7 @@ In order to obtain supplies, food and snacks for our Monthly Hackathon Meetups, 
 
 Would you like to donate? Here is a hosted *donation* page at Stripe, your email address will be used to send a thank you note… we have received our 501(c)(3) determination as of 12 October 2022, so that any donation will be deductible. This is not tax advice, please consult your tax preparation professional.
 
-[External Donation Link to Stripe.com](https://donate.stripe.com/5kA7sX79naDF6Ri4gg)
+[![Button Stripe]][STRIPE]
 
 **Remember**: until our legal name change is complete with the State of Nevada, and our updated name appears with the IRS associated with our EIN and 501(c)(3) status, and our various financial tools are updated to reflect our new name, you may see *Code for Vegas Foundation* and we would remind you that the update is in progress to change the one word in our name…
 
@@ -133,8 +133,10 @@ We are always updating our online presence, here on GitHub, on social media plat
 [Button Agile]: https://img.shields.io/badge/Agile%20for%20Volunteers-lightblue?style=for-the-badge
 [Button Howto]: https://img.shields.io/badge/HowTos-lightblue?style=for-the-badge
 [Button HowtoEn]: https://img.shields.io/badge/HowTos%20English-lightblue?style=for-the-badge
+[Button Stripe]: https://img.shields.io/badge/donate-lightblue?style=for-the-badge&logo=stripe
 [CONDUCT]: https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md 'Foundation Code of Conduct'
 [CONTRIBUTING]: https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md 'Foundation Contributing Guidelines'
 [AGILE]: https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md 'Agile for Volunteers'
 [HOWTO]: https://github.com/InnovateForVegas/doc-org-howtos 'Organization HowTos'
 [HOWTOEN]: https://github.com/InnovateForVegas/doc-org-howtos/tree/main/doc/en 'Organization HowTos in English'
+[STRIPE]: https://donate.stripe.com/5kA7sX79naDF6Ri4gg
