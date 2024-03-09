@@ -88,11 +88,11 @@ We are a top-to-bottom volunteer organization. Those in governance and advisory 
 
 In order to obtain supplies, food and snacks for our Monthly Hackathon Meetups, printing of business cards, cloud hosting fees outside of free tiers, and other such things, will be paid for by these very same uncompensated volunteers, or by donations from the community and beyond. Ideally these will be individuals who are interested in supporting the efforts of their own local friends and family members, though we are certainly interested in hands-off sponsorship from larger entities if there is a good fit with our goals.
 
-Would you like to donate? Here is a hosted *donation* page at Stripe, your email address will be used to send a thank you note… we have received our 501(c)(3) determination as of 12 October 2022, so that any donation will be deductible. This is not tax advice, please consult your tax preparation professional.
+Would you like to donate to support our organization? Here is a hosted *donation* page at **Stripe**, your email address will be used to send a thank you note… we have received our 501(c)(3) determination as of 12 October 2022, so that any donation may be deductible. **This is not tax advice, please consult your tax preparation professional.**
 
 [![Button Stripe]][STRIPE]
 
-**Remember**: until our legal name change is complete with the State of Nevada, and our updated name appears with the IRS associated with our EIN and 501(c)(3) status, and our various financial tools are updated to reflect our new name, you may see *Code for Vegas Foundation* and we would remind you that the update is in progress to change the one word in our name…
+**Remember**: until our updated name appears with the IRS associated with our EIN and 501(c)(3) status, and our various financial tools are updated to reflect our new name, you may see *Code for Vegas Foundation* and we would remind you that the update is in progress to change the one word in our name…
 
 ## Projects
 
