@@ -130,7 +130,7 @@ We are always updating our online presence, here on GitHub, on social media plat
 <!------------------------------------------>
 [Button Conduct]: https://img.shields.io/badge/Code%20of%20Conduct-lightblue?style=for-the-badge
 [Button Contribute]: https://img.shields.io/badge/Contributing-lightblue?style=for-the-badge
-[Button Agile]: https://img.shields.io/badge/Agile%20for%Volunteers-lightblue?style=for-the-badge
+[Button Agile]: https://img.shields.io/badge/Agile%20for%20Volunteers-lightblue?style=for-the-badge
 [Button Howto]: https://img.shields.io/badge/HowTos-lightblue?style=for-the-badge
 [Button HowtoEn]: https://img.shields.io/badge/HowTos%20English-lightblue?style=for-the-badge
 [CONDUCT]: https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md 'Foundation Code of Conduct'
