@@ -92,7 +92,7 @@ Would you like to donate to support our organization? Here is a hosted *donation
 
 [![Button Stripe]][STRIPE]
 
-**Remember**: until our updated name appears with the IRS associated with our EIN and 501(c)(3) status, and our various financial tools are updated to reflect our new name, you may see *Code for Vegas Foundation* and we would remind you that the update is in progress to change the one word in our name…
+**Remember**: until our various financial tools are updated to reflect our new name, you may see *Code for Vegas Foundation* and we would remind you that the update is in progress to change the one word in our name…
 
 ## Projects
 

@@ -57,9 +57,19 @@ You may locate our organization in the IRS database by visiting
 
 [https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations](https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations)
 
-and searching by our original organization name, *Code for Vegas Foundation* in Las Vegas, Nevada, USA.
+The actual Search page (Exempt Organization Search) is at
+
+[https://apps.irs.gov/app/eos/](https://apps.irs.gov/app/eos/)
+
+and searching by our new organization name, *Innovate for Vegas Foundation* in Las Vegas, Nevada, USA.
 
 ## History
+
+- 11 March 2024
+  - IRS Exempt Organization Database entry updated with new name
+
+- 6 March 2024
+  - Affirmation Letter regarding Name Change received from IRS
 
 - 11 December 2023
   - Awaiting Affirmation Letter from IRS
