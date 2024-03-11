@@ -19,13 +19,14 @@
 
 # Legal Status of our Organization
 
-As of 11 December 2023:
+As of 11 March 2024:
 
 - Our Organization is, by all accounts, one in good standing
 - Amended Articles accepted with Nevada Secretary of State, our nonprofit corporation has been re-named
-- Name-change letter submitted to IRS for record name change and EIN update
-- Affirmation letter requested at the same time
-- Updates to services, financial accounts and services, and miscellaneous can proceed on receipt of the Affirmation Letter from the IRS
+- Name-change with IRS completed
+  - Affirmation Letter received 6 March 2024
+  - IRS Exempt Organization Database updated with our name change 11 March 2024
+- Updates to financial accounts and services and miscellaneous is proceeding
 
 ## Why Rename?
 
