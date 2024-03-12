@@ -24,6 +24,7 @@ As of 11 March 2024:
 - Our Organization is, by all accounts, one in good standing
 - Amended Articles accepted with Nevada Secretary of State, our nonprofit corporation has been re-named
 - Name-change with IRS completed
+  - Affirmation Letter with updated name dated 12 February 2024
   - Affirmation Letter received 6 March 2024
   - IRS Exempt Organization Database updated with our name change 11 March 2024
 - Updates to financial accounts and services and miscellaneous is proceeding
