@@ -39,25 +39,24 @@ Our organization implemented and is follow an adaptation of Agile Methodology ai
 
 [![Button Agile]][AGILE]
 
-### Join our Mailing List or This GitHub Organization or Our Discord Server or…
+### Join Our Discord
 
-We are making use of Organization Discussions here on GitHub for the items closer to our work, please participate in these rather than spreading operational items across other forums and channels (even our own Discord server):
+We have a Discord Server for discussion and engagement with our Communities at large (those who would like to participate through discussion or perhaps just lurking), feel free to join the discussion (our actual project efforts should still take place closer to the work, mostly on GitHub).
 
-* [Innovate for Vegas Discussions](https://github.com/orgs/InnovateForVegas/discussions)
+* [Innovate for Vegas Foundation Discord Server](https://discord.com/invite/gh5FAahd9P)
 
-We are assembling a mailing list to keep those interested in the loop, without needing to sign up for a Discord or GitHub or some other account. We will not spam you, we will not sell your contact information, you may opt out at any time.
-
-If you would like to be added to the mailing list, please send an email to
-
-* [AddMe+Listserv @ InnovateForVegas.org](mailto:addme+listserv@innovateforvegas.org)
+### Joining our Org
 
 If you would like to be added to this GitHub organization (InnovateForVegas), please describe how you would like to participate in the organization and its projects in an email sent to
 
 * [AddMe+GitHub @ InnovateForVegas.org](mailto:addme+github@innovateforvegas.org)
 
-We have a Discord Server for discussion and engagement with our Communities at large (those who would like to participate through discussion or perhaps just lurking), feel free to join the discussion (our actual project efforts should still take place closer to the work, mostly on GitHub).
+Please consider these steps prior:
 
-* [Innovate for Vegas Foundation Discord Server](https://discord.com/invite/gh5FAahd9P)
+1. Visit our [Howto docs](https://github.com/InnovateForVegas/doc-org-howtos) and check out the Welcome and Agile for Volunteers parts in particular
+2. Check out one of our existing projects (start with the overviews linked in the Projects table in this README)
+3. Consider cloning or forking, authoring a pull request, creating an issue, or generally starting with some proactive participation. This includes pull requests against the doc-howtos project!
+4. Our current Projects lists is the beginning, if you have ideas for new projects or project components, don´t be shy!
 
 ## About the Innovate for Vegas Foundation
 
