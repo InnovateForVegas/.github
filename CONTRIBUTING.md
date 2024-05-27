@@ -35,7 +35,7 @@ Contributions may also include but are not limited to the following resources or
 
 All contributors to any part of any project or project component repository or project-related resource or component to which this CONTRIBUTING policy applies shall make any contribution in accordance with the [Developer Certification of Origin](https://developercertificate.org/).
 
-Contributors and contributions to this project repository should adhere to the following rules and guidelines:
+**Contributors and contributions to this project repository should adhere to the following rules and guidelines:**
 
 ## Copyright, Copyright Assignment, and Licensing of Contributed Creative Work
 
