@@ -25,7 +25,7 @@ An Innovate for Vegas Project ("project") is the sum of the time and creativity 
 
 A Contributor is any individual person or entity ("contributor") adding materially to a project or repository, by way of new creative work stored or otherwise included as a component of the project ("contribution").
 
-Contributions may also include but are not limited to the following, which we include as creative work:
+Contributions may also include but are not limited to the following resources or components, which we include as creative work:
 
 * Reporting a bug
 * Discussing the current state of the code or other parts of a project
