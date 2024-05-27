@@ -35,6 +35,11 @@ Contributions may also include but are not limited to the following resources or
 
 All contributors to any part of any project or project component repository or project-related resource or component to which this CONTRIBUTING policy applies shall make any contribution in accordance with the [Developer Certification of Origin](https://developercertificate.org/).
 
+Commits to a git repository, including our repositories maintained on GitHub, may be submitted with a *signoff* option set, attesting to compliance with the Developer Certification of Origin policy. Submissions of creative work to any repository should include a signoff, as documented here:
+
+[Git -s/--signoff commit switch](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s)
+[GitHub Commit Signoffs](https://docs.github.com/en/organizations/managing-organization-settings/managing-the-commit-signoff-policy-for-your-organization#about-commit-signoffs)
+
 **Contributors and contributions to this project repository should adhere to the following rules and guidelines:**
 
 ## Copyright, Copyright Assignment, and Licensing of Contributed Creative Work
