@@ -19,7 +19,7 @@
 
 # Contributing to this Repository
 
-This is a default CONTRIBUTING file designed for all projects (coding projects and otherwise) owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas"). This file may be modified per project and where appropriate, but should not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works.
+This is a default CONTRIBUTING file designed for all projects owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas"). This file may be modified per project and where appropriate, but should not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works.
 
 An Innovate for Vegas Project ("project") is the sum of the time and creativity ("creative work") of those who add their creative work to a project in any way, and may be composed of zero or more Git Repositories located on GitHub.com or elsewhere, but may include other elements, such as multimedia, visual artwork, written word, and any other relevant items ("components") stored and tracked by other means ("repository"). Each of the components, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the project to which each belongs, unless otherwise indicated per repository.
 
