@@ -47,9 +47,9 @@ We have a Discord Server for discussion and engagement with our Communities at l
 
 ### Joining our Org
 
-If you would like to be added to this GitHub organization (InnovateForVegas), please describe how you would like to participate in the organization and its projects in an email sent to
+If you would like to be added to this GitHub organization (InnovateForVegas) and be a Contributor of Creative Works to our Civic Volunteer endeavors, please add a discussion item to our *Join Request* discussion category:
 
-* [AddMe+GitHub @ InnovateForVegas.org](mailto:addme+github@innovateforvegas.org)
+[![Button Join]][JOIN]
 
 Please consider these steps prior:
 
@@ -130,12 +130,14 @@ We are always updating our online presence, here on GitHub, on social media plat
 [Button Conduct]: https://img.shields.io/badge/Code%20of%20Conduct-lightblue?style=for-the-badge
 [Button Contribute]: https://img.shields.io/badge/Contributing-lightblue?style=for-the-badge
 [Button Agile]: https://img.shields.io/badge/Agile%20for%20Volunteers-lightblue?style=for-the-badge
+[Button Join]: https://img.shields.io/badge/Join%20Request-lightblue?style=for-the-badge
 [Button Howto]: https://img.shields.io/badge/HowTos-lightblue?style=for-the-badge
 [Button HowtoEn]: https://img.shields.io/badge/HowTos%20English-lightblue?style=for-the-badge
 [Button Stripe]: https://img.shields.io/badge/donate-lightblue?style=for-the-badge&logo=stripe
 [CONDUCT]: https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md 'Foundation Code of Conduct'
 [CONTRIBUTING]: https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md 'Foundation Contributing Guidelines'
 [AGILE]: https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md 'Agile for Volunteers'
+[JOIN]: https://github.com/orgs/InnovateForVegas/discussions/categories/join-request 'Join Request'
 [HOWTO]: https://github.com/InnovateForVegas/doc-org-howtos 'Organization HowTos'
 [HOWTOEN]: https://github.com/InnovateForVegas/doc-org-howtos/tree/main/doc/en 'Organization HowTos in English'
 [STRIPE]: https://donate.stripe.com/5kA7sX79naDF6Ri4gg
