@@ -136,7 +136,7 @@ We are always updating our online presence, here on GitHub, on social media plat
 [Button Stripe]: https://img.shields.io/badge/donate-lightblue?style=for-the-badge&logo=stripe
 [CONDUCT]: https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md 'Foundation Code of Conduct'
 [CONTRIBUTING]: https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md 'Foundation Contributing Guidelines'
-[AGILE]: https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md 'Agile for Volunteers'
+[AGILE]: https://github.com/InnovateForVegas/doc-agile-for-volunteers 'Agile for Volunteers'
 [JOIN]: https://github.com/orgs/InnovateForVegas/discussions/categories/join-request 'Join Request'
 [HOWTO]: https://github.com/InnovateForVegas/doc-org-howtos 'Organization HowTos'
 [HOWTOEN]: https://github.com/InnovateForVegas/doc-org-howtos/tree/main/doc/en 'Organization HowTos in English'
