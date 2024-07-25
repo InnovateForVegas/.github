@@ -43,7 +43,7 @@ Our organization implemented and is follow an adaptation of Agile Methodology ai
 
 We have a Discord Server for discussion and engagement with our Communities at large (those who would like to participate through discussion or perhaps just lurking), feel free to join the discussion (our actual project efforts should still take place closer to the work, mostly on GitHub).
 
-* [Innovate for Vegas Foundation Discord Server](https://discord.com/invite/gh5FAahd9P)
+[![Button Discord]][DISCORD]
 
 ### Joining our Org
 
@@ -130,6 +130,7 @@ We are always updating our online presence, here on GitHub, on social media plat
 [Button Conduct]: https://img.shields.io/badge/Code%20of%20Conduct-lightblue?style=for-the-badge
 [Button Contribute]: https://img.shields.io/badge/Contributing-lightblue?style=for-the-badge
 [Button Agile]: https://img.shields.io/badge/Agile%20for%20Volunteers-lightblue?style=for-the-badge
+[Button Discord]: https://img.shields.io/badge/Our%20Discord-lightblue?style=for-the-badge
 [Button Join]: https://img.shields.io/badge/Join%20Request-lightblue?style=for-the-badge
 [Button Howto]: https://img.shields.io/badge/HowTos-lightblue?style=for-the-badge
 [Button HowtoEn]: https://img.shields.io/badge/HowTos%20English-lightblue?style=for-the-badge
@@ -137,6 +138,7 @@ We are always updating our online presence, here on GitHub, on social media plat
 [CONDUCT]: https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md 'Foundation Code of Conduct'
 [CONTRIBUTING]: https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md 'Foundation Contributing Guidelines'
 [AGILE]: https://github.com/InnovateForVegas/doc-agile-for-volunteers 'Agile for Volunteers'
+[DISCORD]: https://discord.com/invite/gh5FAahd9P 'Discord Server Invite'
 [JOIN]: https://github.com/orgs/InnovateForVegas/discussions/categories/join-request 'Join Request'
 [HOWTO]: https://github.com/InnovateForVegas/doc-org-howtos 'Organization HowTos'
 [HOWTOEN]: https://github.com/InnovateForVegas/doc-org-howtos/tree/main/doc/en 'Organization HowTos in English'
