@@ -53,7 +53,7 @@ If you would like to be added to this GitHub organization (InnovateForVegas) and
 
 Please consider these steps prior:
 
-1. Visit our [Howto docs](https://github.com/InnovateForVegas/doc-org-howtos) and check out the Welcome and Agile for Volunteers parts in particular
+1. Visit our [Howto docs](https://github.com/InnovateForVegas/doc-org-howtos) and check out the Welcome other sections…
 2. Check out one of our existing projects (start with the overviews linked in the Projects table in this README)
 3. Consider cloning or forking, authoring a pull request, creating an issue, or generally starting with some proactive participation. This includes pull requests against the doc-howtos project!
 4. Our current Projects lists is the beginning, if you have ideas for new projects or project components, don´t be shy!
