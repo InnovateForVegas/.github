@@ -47,7 +47,7 @@ We have a Discord Server for discussion and engagement with our Communities at l
 
 ### Joining our Org
 
-If you would like to be added to this GitHub organization (InnovateForVegas) and be a Contributor of Creative Works to our Civic Volunteer endeavors, please add a discussion item to our *Join Request* discussion category:
+If you would like to be added to this GitHub organization (InnovateForVegas) and be a Contributor of Creative Works to our Civic Volunteer endeavors, please add a discussion item to our *Join Request* discussion category (be logged in to your preferred GitHub Account):
 
 [![Button Join]][JOIN]
 
