@@ -47,7 +47,7 @@ We have a Discord Server for discussion and engagement with our Communities at l
 
 ### Joining our Org
 
-If you would like to be added to this GitHub organization (InnovateForVegas) and be a Contributor of Creative Works to our Civic Volunteer endeavors, please add a discussion item to our *Join Request* discussion category (be logged in to your preferred GitHub Account):
+If you would like to be added to this GitHub organization (InnovateForVegas) and be a Contributor of Creative Works to our Civic Volunteer endeavors, please add a discussion item to our *Join Request* discussion category (**be logged in to your preferred GitHub Account**):
 
 [![Button Join]][JOIN]
 
@@ -56,7 +56,7 @@ Please consider these steps prior:
 1. Visit our [Howto docs](https://github.com/InnovateForVegas/doc-org-howtos) and check out the Welcome other sections…
 2. Check out one of our existing projects (start with the overviews linked in the Projects table in this README)
 3. Consider cloning or forking, authoring a pull request, creating an issue, or generally starting with some proactive participation. This includes pull requests against the doc-howtos project!
-4. Our current Projects lists is the beginning, if you have ideas for new projects or project components, don´t be shy!
+4. If you do not already have a GitHub account, please obtain one. [Creating an Account on GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
 ## About the Innovate for Vegas Foundation
 
@@ -72,7 +72,7 @@ Our organization is extremely thin and **all volunteer**. That is, none of the p
 
 * Managing Director : [Dan Hugo](https://github.com/DanHugoDanHugo)
 * Director : [Mary Norris](https://github.com/maryfnorris)
-* Director : **Open Sisyphus Chair**
+* Director : [Shawn Dean](https://github.com/)
 * Director Emeritus : [Shawn Looker](https://github.com/slooker)
 
 Our local tech and non-tech scene is as alive as ever, which makes now a great time to get involved with making Las Vegas and surrounding areas a great place to live or visit. One way to do that is to join this effort and work with municipal partners and our local communities to identify where we can make a difference, and then make that difference happen!
