@@ -21,6 +21,10 @@
 
 Formerly the CodeForVegas GitHub Organization and the Code for Vegas Foundation, now focused on not just code, but all forms of Innovation!
 
+## Main Site now Hosted with GitHub Pages
+
+Our main entrypoint for the curious, [Innovate for Vegas Foundation Home](https://innovateforvegas.org) is now hosted on GitHub using GitHub Pages. As of this update the static content we had published already has been moved over with a few minor updates, as we migrate to our Agile for Volunteers infrastructure and per-initiative and per-component-project page content (taking advantage of project Pages for individual repositories).
+
 ## Joining and Onboarding and Contributing
 
 We have default Community Health documents in the usual place which apply across our presence here on GitHub and beyond. Find them and refer to them as needed:
