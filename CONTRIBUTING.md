@@ -58,6 +58,12 @@ Visit the [Choose A License non-software page](https://choosealicense.com/non-so
 
 In cases where one single repository contains creative work with different applicable licenses, specific items must be associated with the specific license under which they are made available for use. Ideally, repositories can be constructed and combined to allow a simpler, single-license-per-repository approach.
 
+### Grant-Back License Provision
+
+Any creative work contributed to any Innovate for Vegas Initiative or Component Project, with copyright transferred to the Innovate for Vegas Foundation on submission, is immediately licensed back to its contributor(s) in perpetuity for any uses, including use in other initiatives or component projects making use of other license terms. Submissions of creative work and assignment of copyright in no ways limits the use by the submitter of their own work in any way, at any time.
+
+Special care must be taken to note, the grant-back license provision applies to contributions by a submitter to the submission, not to the entire component project or its parts to which a submission is contributed. Submission of a patch, grammar edit, or language translation, for examples, does not extend the grant-back license to the original or source elements to which changes where applied and submitted, but only to the changes.
+
 ## Inclusivity + Diversity + Accessibility
 
 Contributors to this repository may be anywhere on a skills/experience spectrum. Teaching and learning are a part of the Innovate for Vegas mission and project development process, and so there may be instances where an incomplete or incorrect repository commit is attempted, a commit must be reversed, perhaps a comment updated, perhaps there was a forgotten file that needs to be added. These things happen. Learn from these and be aware that others may also be learning.
