@@ -19,7 +19,7 @@
 
 # Contributing to this Repository
 
-This is a default CONTRIBUTING file designed for all projects owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas"). This file may be modified per project and where appropriate, but should not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works.
+This is a default CONTRIBUTING file designed for all projects owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas" or "foundation" or "we"). This file may be modified per project and where appropriate, but should not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works.
 
 An Innovate for Vegas Initiative ("initiative") and its Component Projects ("project" or "component" or "component project") is the sum of the time, effort, expertise, and creativity ("creative work") of those who add their creative work to any part of an initiative or project in any way. An initiative and its projects may be composed of zero or more Git Repositories located on GitHub.com or elsewhere, but may include other elements, such as multimedia, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means ("repository"). Each of the components, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the project to which each belongs, unless otherwise indicated per repository.
 
@@ -176,7 +176,9 @@ We will generally follow the advice found at [Conventional Commits](https://www.
 
 Version numbers can be confusing once software is released, especially if there are different versions used for testing, release, etc.
 
-We will follow the spec for [Semantic Versioning](https://semver.org/) and you should, too.
+We follow the specifications for [Semantic Versioning](https://semver.org/).
+
+We may also follow the specifications for [Zero Versioning](https://0ver.org/) where pre-release and very early iterations of any component project warrant this approach. As any component project or initiative as a whole becomes viable for deployment or public release or similar, Semantic Versioning is the baseline scheme to follow.
 
 ### Issues, Bugs, Discussions
 
@@ -211,7 +213,7 @@ GitHub et al. also support AUTHORS and CONTRIBUTORS files per repository, which 
 
 Some may wish to obscure their email address(es), to enable this GitHub provides a *noreply* email address which may be used in place of a public email address for commit attribution and in other places listed above.
 
-For example, the original author of this file, Dan Hugo, could be referred to in commits, AUTHORS, and other places, as one of
+For example, the original author of this file, Dan Hugo, could be referred to in commits, AUTHORS, and other places on the GitHub.com platform, as one of
 
 * DanHugoDanHugo <1445564+DanHugoDanHugo@users.noreply.github.com>
 * DanHugoDanHugo <dhugo@reallycool.com>
