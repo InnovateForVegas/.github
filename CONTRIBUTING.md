@@ -21,7 +21,7 @@
 
 This is a default CONTRIBUTING file designed for all projects owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas"). This file may be modified per project and where appropriate, but should not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works.
 
-An Innovate for Vegas Project ("project") is the sum of the time and creativity ("creative work") of those who add their creative work to a project in any way, and may be composed of zero or more Git Repositories located on GitHub.com or elsewhere, but may include other elements, such as multimedia, visual artwork, written word, and any other relevant items ("components") stored and tracked by other means ("repository"). Each of the components, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the project to which each belongs, unless otherwise indicated per repository.
+An Innovate for Vegas Initiative ("initiative") and its Component Projects ("project" or "component" or "component project") is the sum of the time, effort, expertise, and creativity ("creative work") of those who add their creative work to any part of an initiative or project in any way. An initiative and its projects may be composed of zero or more Git Repositories located on GitHub.com or elsewhere, but may include other elements, such as multimedia, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means ("repository"). Each of the components, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the project to which each belongs, unless otherwise indicated per repository.
 
 A Contributor is any individual person or entity ("contributor") adding materially to a project or repository, by way of new creative work stored or otherwise included as a component of the project ("contribution").
 
@@ -35,7 +35,7 @@ Contributions may also include but are not limited to the following resources or
 
 All contributors to any part of any project or project component repository or project-related resource or component to which this CONTRIBUTING policy applies shall make any contribution in accordance with the [Developer Certification of Origin](https://developercertificate.org/).
 
-Commits to a git repository, including our repositories maintained on GitHub, may be submitted with a *signoff* option set, attesting to compliance with the Developer Certification of Origin policy. Submissions of creative work to any repository should include a signoff, as documented here:
+Commits to a git repository, including our repositories maintained on GitHub, must be submitted with a *signoff* option set, attesting to compliance with the Developer Certification of Origin policy. Submissions of creative work to any repository should include that signoff, as documented here:
 
 * [Git -s/--signoff commit switch](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s)
 * [GitHub Commit Signoffs](https://docs.github.com/en/organizations/managing-organization-settings/managing-the-commit-signoff-policy-for-your-organization#about-commit-signoffs)
@@ -70,7 +70,7 @@ At any given point in the development of any project component (repository or ot
 
 When in doubt, check the CODE_OF_CONDUCT document associated with this repository and with Innovate for Vegas in general. When all else fails, be a [Good Person](https://www.thefreedictionary.com/good+person).
 
-## Project Repository Details
+## Component Project Repository Details
 
 The following are applicable to creative works that are source code or similar and which shall follow common and useful Best Practices for software development, described herein. Best Practices not described herein are left to project and repository teams to adopt and use in order to make developing the project and its components productive, educational, and enjoyable.
 
@@ -78,15 +78,15 @@ The following are applicable to creative works that are source code or similar a
 
 ### Main Branch Naming
 
-To be clear immediately, the global transition to *main* as a preferred default branch name over the legacy *master* is in effect for all Innovate for Vegas Foundation project repositories.
+To be clear immediately, the global transition to *main* as a preferred default branch name over the legacy *master* is in effect for all Innovate for Vegas Foundation component project repositories.
 
-### Join a Project
+### Join an Initiative
 
-At any given time there may be more than one top-level project in progress in the Innovate for Vegas organization, found on GitHub or perhaps elsewhere for non-code-like projects. Until a better system is identified and implemented, projects participation is managed through the GitHub Teams feature, identifying the team members involved and meeting with them to discuss participation is a great early step. We encourage those interested in joining a project to bring curiosity, skill, or both, as long as there is also interest!
+At any given time there may be more than one top-level initiative in progress in the Innovate for Vegas organization, found on GitHub or perhaps elsewhere for non-code-like initiatives. Until a better system is identified and implemented, initiative and component projects participation is managed through the GitHub Teams feature, identifying the team members involved and meeting with them to discuss participation is a great early step. We encourage those interested in joining an initiative and/or component projects to bring curiosity, skill, or both, as long as there is also interest!
 
-### Start a Project
+### Start an Initiative
 
-If there is not an existing project already in progress, suggest one! At the time of this writing, a new project topic begins each month as the previous topic wraps up from ideation and innovation to the full stack of ideation, innovation, implementation, and integration. The project topics align for the most part with a capstone project, and also lean heavily toward civic utility, whether working directly with municipal partners from the start, or later as a project reaches some level of usability for consideration and possibly continued development. With all of this in mind, new project topic ideas, and new components to add to an existing project, are both welcome by way of additional discussion and consideration.
+If there is not an existing initiative already in progress, suggest one! At the time of this writing, a new initiative topic begins each month as the previous topic wraps up from ideation and innovation to the full stack of ideation, innovation, implementation, and integration. The project topics align for the most part with a capstone project, and also lean heavily toward civic utility, whether working directly with municipal partners from the start, or later as an initiative reaches some level of usability for consideration and possibly continued development. With all of this in mind, new initiative topic ideas, and new components to add to an existing initiative, are both welcome by way of additional discussion and consideration.
 
 ### Getting Started
 
@@ -94,13 +94,13 @@ A new repository should contain at least a README.md stub (always updatable), wi
 
 ### Collaboration
 
-Each project, and each project team per project component or project repository, may choose to follow a particular project management and workflow style that suits the team and the project or project component.
+Each initiative and each team per component project, may choose to follow a particular project management and workflow style that suits the team and the project or project component.
 
 Unless such a specific override is enacted, all contribution to any Innovate for Vegas project or project component or project repository shall follow the Agile for Volunteers principles outlined in the organization HOWTO documentation, with English language version at [HOWTO: Agile for Volunteers](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md).
 
-### Project Policies
+### Initiative and Project Policies
 
-Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
+Unless otherwise and specifically indicated with replacement files in this repository, this component project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
 
 * [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
 * [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
@@ -113,7 +113,7 @@ This is the top-level OverView repository, which will contain a high-level descr
 
 Additional repositories added to the project should adhere to a similar naming scheme, for example, **be-(project-name)** for backend code, **fe-(project-name)** for frontend code, **doc-(project-name)** for separate project documentation (perhaps including i18n and l10n work), and more may be added. This convention will, ideally, make navigating the GitHub repository organizational scheme (which is not much) easier as more repositories are added. Note that adding a suffix to **project-name** is acceptable to indicate more detail (eg if there is more than one backend or frontend repo for a given project, for experimentation or other).
 
-Here is a tabular example summary of some naming convention ideas that could make navigating a sea of repositories easier:
+Here is a tabular example summary of some naming convention ideas that could make navigating a sea of repositories easier (this is a normative list for example use):
 
 | Example Name       | Description                                                                                   |
 |--------------------|-----------------------------------------------------------------------------------------------|
@@ -218,16 +218,18 @@ For more information please visit:
 
 ## Warranties
 
-Contribution of creative work to any Innovate for Vegas project or project repository is made without warranty, express or implied.
+Contribution of creative work to any Innovate for Vegas project or project repository is made without warranty, express or implied. This is in keeping with the nature of the license(s) which apply to the initiatives which the Innovate for Vegas Foundation pursues with its cohort of volunteers, up to and after the release and/or deployment of those initiatives and components of those initiatives.
 
 ## Code of Conduct
 
-All participation in any aspect of contribution of creative work, and in the activities surrounding those contributions, whether virtual or in-person gatherings and work sessions, written correspondence, code comments, commit comments, issue reports and comments, project and repository discussions hosted on GitHub.com or elsewhere, or anything attached in any way to the Innovate for Vegas Foundation, shall adhere to the published CODE_OF_CONDUCT, available where you found this CONTRIBUTING document.
+All participation in any aspect of contribution of creative work, and in the activities surrounding those contributions, whether virtual or in-person gatherings and work sessions, written correspondence, code comments, commit comments, issue reports and comments, project and repository discussions hosted on GitHub.com or elsewhere, or anything attached in any way to the Innovate for Vegas Foundation, shall adhere to the published CODE_OF_CONDUCT, available where you found this CONTRIBUTING document. The default Code of Conduct document for our organization is always available here:
+
+[Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## This Document
 
 This original CONTRIBUTING document has been composed by and for the Innovate for Vegas Foundation by [Dan Hugo](https://github.com/DanHugoDanHugo). Please find the revision controlled version of this document with history in the GitHub.com [Innovate for Vegas Foundation organization](https://github.com/InnovateForVegas) top-level repository at [CONTRIBUTING.md](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md).
 
-This document is published with Copyright 2022 by the Innovate for Vegas Foundation
+This document is published with Copyright held by the Innovate for Vegas Foundation
 
 This document is made available under the license of the repository in which is found, or under the [Creative Commons Attribution-ShareAlike 4.0 International License (cc-by-sa-4.0)](http://creativecommons.org/licenses/by-sa/4.0/) if there is no specified license present or available.
