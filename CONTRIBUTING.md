@@ -19,16 +19,16 @@
 
 # Contributing to this Repository
 
-This is a default CONTRIBUTING file designed for all projects owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas" or "foundation" or "we"). This file may be modified per project and where appropriate, but should not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works.
+This is the default CONTRIBUTING document designed for all entities owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas" or "foundation" or "we") subject to contribution of any kind by anyone. This file may be modified where appropriate in the form of addenda to this original document, but should not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works.
 
-An Innovate for Vegas Initiative ("initiative") and its Component Projects ("project" or "component" or "component project") is the sum of the time, effort, expertise, and creativity ("creative work") of those who add their creative work to any part of an initiative or project in any way. An initiative and its projects may be composed of zero or more Git Repositories located on GitHub.com or elsewhere, but may include other elements, such as multimedia, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means ("repository"). Each of the components, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the project to which each belongs, unless otherwise indicated per repository.
+An Innovate for Vegas Initiative ("initiative") and its Component Projects ("project" or "component" or "component project") is the sum of the time, effort, expertise, and creativity ("creative work") of those who add their creative work to any part of an initiative or project in any way. An initiative and its component projects may be composed of zero or more Git Repositories located on GitHub.com or elsewhere, but may include other elements such as multimedia content, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means in a formal revision control system or in a less-structured tracking system ("repository"). Each of the components, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the Initiative to which each belongs, unless otherwise indicated per Component Project.
 
 A Contributor is any individual person or entity ("contributor") adding materially to a project or repository, by way of new creative work stored or otherwise included as a component of the project ("contribution").
 
 Contributions may also include but are not limited to the following resources or components, which we include as creative work:
 
-* Reporting a bug
-* Discussing the current state of the code or other parts of a project
+* Reporting a bug or defect
+* Discussing the current state of the code or other parts of an initiative
 * Submitting a fix or other change
 * Proposing new features or useful changes
 * Becoming a maintainer of a project or project repository or other component(s)
@@ -39,8 +39,6 @@ Commits to a git repository, including our repositories maintained on GitHub, mu
 
 * [Git -s/--signoff commit switch](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s)
 * [GitHub Commit Signoffs](https://docs.github.com/en/organizations/managing-organization-settings/managing-the-commit-signoff-policy-for-your-organization#about-commit-signoffs)
-
-**Contributors and contributions to this project repository should adhere to the following rules and guidelines:**
 
 ## Copyright, Copyright Assignment, and Licensing of Contributed Creative Work
 
@@ -62,7 +60,7 @@ In cases where one single repository contains creative work with different appli
 
 Any creative work contributed to any Innovate for Vegas Initiative or Component Project, with copyright transferred to the Innovate for Vegas Foundation on submission, is immediately licensed back to its contributor(s) in perpetuity for any uses, including use in other initiatives or component projects making use of other license terms. Submissions of creative work and assignment of copyright in no ways limits the use by the submitter of their own work in any way, at any time.
 
-Special care must be taken to note, the grant-back license provision applies to contributions by a submitter to the submission, not to the entire component project or its parts to which a submission is contributed. Submission of a patch, grammar edit, or language translation, for examples, does not extend the grant-back license to the original or source elements to which changes where applied and submitted, but only to the changes.
+Special care must be taken to note, the grant-back license provision applies to contributions by a submitter to the submission, not to the entire component project or its parts to which a submission is contributed. Submission of a patch, grammar edit, or language translation, for examples, does not extend the grant-back license to the original or source elements to which changes where applied and submitted, but only to the changes. Similarly, the submitter of original sources or component project elements maintains a grant-back license to use those contributions, but does not receive a similar grant-back provision on changes submitted to the original submission by others.
 
 ## Inclusivity + Diversity + Accessibility
 
@@ -102,7 +100,9 @@ A new repository should contain at least a README.md stub (always updatable), wi
 
 Each initiative and each team per component project, may choose to follow a particular project management and workflow style that suits the team and the project or project component.
 
-Unless such a specific override is enacted, all contribution to any Innovate for Vegas project or project component or project repository shall follow the Agile for Volunteers principles outlined in the organization HOWTO documentation, with English language version at [HOWTO: Agile for Volunteers](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md).
+All contribution to any Innovate for Vegas project or project component or project repository shall follow the Agile for Volunteers methodology and principles introduced in the organization HOWTO documentation, with English language version at [HOWTO: Agile for Volunteers](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md).
+
+The [Agile for Volunteers](https://agileforvolunteers.org) website and [Doc:Agile for Volunteers](https://github.com/InnovateForVegas/doc-agile-for-volunteers) documentation repository are authoritative resources for additional direction.
 
 ### Initiative and Project Policies
 
@@ -170,7 +170,7 @@ Since there may be so much variation in different types of projects and project 
 
 Useful commit messages are helpful in the near term, and throughout all time.
 
-We will generally follow the advice found at [Conventional Commits](https://www.conventionalcommits.org) and you should, too.
+We will generally follow the advice found at [Conventional Commits](https://www.conventionalcommits.org) and ask the same of all contributors.
 
 ### Versioning Things
 
@@ -184,9 +184,8 @@ We may also follow the specifications for [Zero Versioning](https://0ver.org/) w
 
 Unless there is a specific need for coding projects, the basic services available on the GitHub.com platform for issue tracking and discussion can be used. The creation and use of a GitHub Issue Template per project component is left to the project component maintainer(s) to author as needed.
 
-[Introduction to GitHub Issues](https://docs.github.com/en/issues)
-
-[Introduction to GitHub Discussions](https://docs.github.com/en/discussions)
+* [Introduction to GitHub Issues](https://docs.github.com/en/issues)
+* [Introduction to GitHub Discussions](https://docs.github.com/en/discussions)
 
 Because many contributors will not be using GitHub.com for their (non-software or other) contributions, and since it is not common for a casual person to even have a GitHub account, other means will be needed and employed where necessary, with project maintainers making best efforts to track issues, bugs, and fixes.
 
@@ -234,10 +233,14 @@ All participation in any aspect of contribution of creative work, and in the act
 
 [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
 
+## Right to Refuse
+
+The Innovate for Vegas Foundation reserves the right to reject submissions and to refuse participation in any case where submissions do not adhere to the requirements stipulated in this document or in this document plus any addenda as applicable to a particular Initiative or Component Project, or any any case where Code of Conduct violations create an unsafe or unethical environment for anyone.
+
 ## This Document
 
 This original CONTRIBUTING document has been composed by and for the Innovate for Vegas Foundation by [Dan Hugo](https://github.com/DanHugoDanHugo). Please find the revision controlled version of this document with history in the GitHub.com [Innovate for Vegas Foundation organization](https://github.com/InnovateForVegas) top-level repository at [CONTRIBUTING.md](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md).
 
-This document is published with Copyright held by the Innovate for Vegas Foundation
+This document is published with Copyright held by the Innovate for Vegas Foundation.
 
-This document is made available under the license of the repository in which is found, or under the [Creative Commons Attribution-ShareAlike 4.0 International License (cc-by-sa-4.0)](http://creativecommons.org/licenses/by-sa/4.0/) if there is no specified license present or available.
+This document is made available under the license of the repository in which is found, and under the [Creative Commons Attribution-ShareAlike 4.0 International License (cc-by-sa-4.0)](http://creativecommons.org/licenses/by-sa/4.0/), whichever license if most compatible with the use of the document to enable other Initiatives and Organizations.
