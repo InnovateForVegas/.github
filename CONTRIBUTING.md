@@ -21,30 +21,31 @@
 
 This is the default CONTRIBUTING document designed for all entities owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas" or "foundation" or "we") subject to contribution of any kind by anyone. This file may be modified where appropriate in the form of addenda to this original document, but should not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works.
 
-An Innovate for Vegas Entity may be an Initiative ("initiative") or its Component Projects ("project" or "component" or "component project") or a combination thereof, and can be quantified as the sum of the time, effort, expertise, and creativity ("creative work") of those who add their creative work to any part of any entity in any way. An initiative and its component projects may be composed of zero or more collections of these works located in an accessible place or places, and may include other elements such as multimedia content, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means in a formal revision control system or in a less-structured tracking system, generally referred to as a Repository ("repository" or "repo"). Each of the entities and elements, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the Initiative to which each belongs, unless otherwise indicated per entity.
+An Innovate for Vegas Entity ("entity") may be an Initiative ("initiative") or its Component Projects ("project" or "component" or "component project") or a combination thereof, and can be quantified as the sum of the time, effort, expertise, and creativity ("creative work") of those who add their creative work to any part of any entity in any way. An initiative and its component projects may be composed of zero or more collections of these works located in an accessible place or places, and may include other elements such as multimedia content, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means in a formal revision control system or in a less-structured tracking system, generally referred to as a Repository ("repository" or "repo"). Each of the entities and elements, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the Initiative to which each belongs, unless otherwise indicated per entity.
 
 A Contributor is any individual person or business entity ("contributor") adding materially to a project or repository, by way of new creative work stored or otherwise included as a component of the project ("contribution"). A contribution may be attributed to a business entity as a single contributor.
 
 Contributions may also include but are not limited to these resources, components, and activities, which we include as creative work:
 
 * Reporting a bug or defect
-* Discussing the current state of the code or other parts of an initiative
+* Constructive contribution to fixing or verifying bugs or defects
+* Discussing the current state of an initiative or its component projects
 * Submitting a fix or other change
 * Proposing new features or useful changes
 * Becoming a maintainer of a project or project repository or other component(s)
 * Testing entities or elements to insure they function or exist as intended
 * Translating documents, including written or spoken word, into one or more additional languages
 * Designing physical or mechanical items
+* Building physical or mechanical items
 * Creating and editing content to aid in the use or understanding of any entities as they are deployed
 * Describing what our foundation intends to accomplish to others as a form of outreach and engagement with communities
 * Co-creation of entities and their features with community members at large
-* Any of a variety of other creative works and actions which further the entity development goals
+* Any of a variety of other creative works and actions which further entity development goals
+* Anything else deemed a contribution by the whole team
 
 ## Eligibility of Contributions and Attestation
 
-All contributors to any part of any entity, including but not limited to Initiatives Component Project repositories or repository-like stores to which this CONTRIBUTING policy applies shall make any contribution in accordance with the [Developer Certification of Origin](https://developercertificate.org/).
-
-The Developer Certification Origin text is similar to this normative excerpt (visit the link provided for the most current version, to which a contributor agrees):
+All contributors to any part of any entity, including but not limited to Initiatives and Component Project repositories or repository-like stores to which this CONTRIBUTING policy applies shall make any contribution in accordance with the [Developer Certification of Origin](https://developercertificate.org/) which is excerpted at a point in time below (the latest version in the linked document remains authoritative for the purposes of signoff):
 
 > Developer Certificate of Origin
 > Version 1.1
@@ -66,20 +67,26 @@ The Developer Certification Origin text is similar to this normative excerpt (vi
 > (d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
 >
 
-Commits to a git repository, including our repositories maintained on GitHub, must be submitted with a *signoff* option set, attesting to compliance with the Developer Certification of Origin policy. Submissions of creative work to any repository should include that signoff, as documented here:
+Additions or changes to a git repository ("commits"), including our repositories maintained on GitHub, must be submitted with a *signoff* option set, attesting to compliance with the Developer Certification of Origin policy. Submissions of creative work to any repository should include that signoff, the process documented here:
 
 * [Git -s/--signoff commit switch](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s)
 * [GitHub Commit Signoffs](https://docs.github.com/en/organizations/managing-organization-settings/managing-the-commit-signoff-policy-for-your-organization#about-commit-signoffs)
 
-GitHub.com is considered a single source of truth regarding contributions of creative works, attestation of eligibility of those contributions, and attribution of those contributions to individual or business entities as named contributors.
+As of this writing, GitHub.com is considered the single source of truth for Innovate for Vegas Foundation regarding contributions of creative works, attestation of eligibility of those contributions, and attribution of those contributions to individual or business entities as named contributors, with regard to our entities.
 
-## Copyright, Copyright Assignment, and Licensing of Contributed Creative Work
+## Copyright and License
 
-Any and all creative work contributed to this project repository by any contributor must be owned by that contributor, or that contributor must obtain permission from the owner of the creative work explicitly granting permission to contribute that creative work to this repository.
+Any and all creative work contributed to this entity by any contributor must be owned by that contributor, or that contributor must possess or obtain permission from the owner of the creative work explicitly granting permission to contribute that creative work to this entity.
 
-A contributor to this repository shall make any contributions such that they comply with, and will be governed by, the selected license for that project repository, irrevocably and in perpetuity. Contributor agrees to assign copyright of contributed creative work to the Innovate for Vegas Foundation, irrevocably and in perpetuity.
+Any and all entities maintained by Innovate for Vegas Foundation, found directly or referenced within our GitHUb organization, shall be copyright Innovate for Vegas Foundation unless otherwise stated per entity.
 
-A particular Component Project repository will be developed with a stated license, for example the selected software coding repository default is likely the gpl-3.0 license, though lgpl-3.0 or some similar license might be appropriate in some cases. If at any time during the life of an Initiative or its Component Project Repositories, a change in license is necessary, contributors agree to such license changes and will be apprised if possible if and when such changes occur.
+### Copyright Assignment
+
+A contributor to this entity shall make any contributions such that they comply with, and will be governed by, the selected license for the entity, irrevocably and in perpetuity. Contributor agrees to assign copyright of contributed creative work to the Innovate for Vegas Foundation, irrevocably and in perpetuity.
+
+### Licensing of Creative Works and Entity Outcomes
+
+A particular entity will be developed with a stated license, for example the selected software coding repository default is likely the gpl-3.0 license, though lgpl-3.0 or some similar license might be appropriate in some cases. If at any time during the life of an entity, a change in license is necessary, contributors agree to such license changes and will be apprised if possible if and when such changes occur.
 
 Visit the [Choose a License Appendix](https://choosealicense.com/appendix/) for a table of licenses and basic information about them as a starting point for license research and selection.
 
@@ -87,15 +94,15 @@ In many case, a particular project component may not be software. Graphical asse
 
 Visit the [Choose A License non-software page](https://choosealicense.com/non-software/) for some ideas here.
 
-In cases where one single repository contains creative work with different applicable licenses, specific items must be associated with the specific license under which they are made available for use. Ideally, repositories can be constructed and combined to allow a simpler, single-license-per-repository approach, or will make it clear to all if multiple licenses apply and how.
+In cases where one entity repository contains creative work with different applicable licenses, specific items must be associated with the specific license under which they are made available for use. Ideally, repositories can be constructed and combined to allow a simpler, single-license-per-repository approach, or will make it clear to all if multiple licenses apply and how.
 
 ### Grant-Back License Provision
 
-Any creative work contributed to any Innovate for Vegas Initiative or Component Project, with copyright transferred to the Innovate for Vegas Foundation on submission, is immediately licensed back to its contributor(s) in perpetuity for any uses, including use in other initiatives or component projects making use of other license terms. Submissions of creative work and assignment of copyright in no ways limits the use by the submitter of their own work in any way, at any time.
+Any creative work contributed to any Innovate for Vegas Entity, with copyright assigned to the Innovate for Vegas Foundation on submission, is immediately licensed back to its contributor(s) in perpetuity for any uses, including use in other initiatives or component projects making use of other license terms outside of the Innovate for Vegas Foundation. Submissions of creative work and assignment of copyright in no way limits the use by the submitter of their own work in any way, at any time.
 
-Special care must be taken to note, the grant-back license provision applies to contributions by a submitter to the submission, not to the entire component project or its parts to which a submission is contributed. Submission of a patch, grammar edit, or language translation, for examples, does not extend the grant-back license to the original or source elements to which changes where applied and submitted, but only to the changes. Similarly, the submitter of original sources or component project elements maintains a grant-back license to use those contributions, but does not receive a similar grant-back provision on changes submitted to the original submission by others.
+Special care must be taken to note, the grant-back license provision applies to contributions by a submitter to the submission, not to the entire entity or its elements to which a submission is contributed. Submission of a patch, grammar edit, or language translation, for examples, does not extend the grant-back license to the original or source elements to which changes where applied and submitted, or to other elements of an entity, but only to the changes. Similarly, the submitter of original sources or entity elements maintains a grant-back license to use those contributions, but does not receive a similar grant-back provision on changes submitted to the original submission by others.
 
-Contributors may opt to be listed in the AUTHORS file for any particular repository, which is intended to advertise copyright holders (thus Innovate for Vegas Foundation as well as any contributors with grant-back license, individuals still retain copyrights to contributions as they exist prior to contribution, and retain the grant-back license to the creative work contributed). Additional information is available in the Attribution section below in this document.
+Contributors may opt to be listed in the AUTHORS file for any particular entity repository, which is intended to advertise copyright holders (thus Innovate for Vegas Foundation as well as any contributors with grant-back license, individuals still retain copyrights to contributions as they exist prior to contribution, and retain the grant-back license to the creative work contributed). Additional information is available in the Attribution section in this document.
 
 ### Contributor License Agreements
 
@@ -267,7 +274,7 @@ For more information please visit:
 
 ## Warranties
 
-Contribution of creative work to any Innovate for Vegas project or project repository is made without warranty, express or implied. This is in keeping with the nature of the license(s) which apply to the initiatives which the Innovate for Vegas Foundation pursues with its cohort of volunteers, up to and after the release and/or deployment of those initiatives and components of those initiatives.
+Contribution of creative work to any Innovate for Vegas Initiative, Component Project or any Repository is made without warranty, express or implied. This is in keeping with the nature of the license(s) which apply to the initiatives which the Innovate for Vegas Foundation pursues with its cohort of volunteers, up to and after the release and/or deployment of those initiatives and components of those initiatives.
 
 ## Code of Conduct
 
@@ -277,13 +284,19 @@ All participation in any aspect of contribution of creative work, and in the act
 
 ## Right to Refuse
 
-The Innovate for Vegas Foundation reserves the right to reject submissions and to refuse participation in any case where submissions do not adhere to the requirements stipulated in this document or in this document plus any addenda as applicable to a particular Entity or Element, or any any case where Code of Conduct violations create an unsafe or unethical environment for anyone.
+The Innovate for Vegas Foundation reserves the right to reject submissions and to refuse participation in any case where submissions do not adhere to the requirements stipulated in this document or in this document plus any addenda as applicable to a particular Entity or Element.
+
+The Innovate for Vegas Foundation reserves the right to refuse participation and submissions in any case where an individual or any party violates the Code of Conduct of this organization, or otherwise creates an unsafe environment for anyone participating in any way as part of our organization and its efforts and endeavors.
 
 Further, the Innovate for Vegas Foundation reserves the right to reject any contribution of creative work which does not include an attestation sign-off, or does not comply with copyright assignment policies nor with a current CLA in place with copyright holder(s). This rejection may be temporary until such time as attestation is corrected, copyright assignment is agreed upon, or a CLA applicable to the contribution of a creative work can be implemented.
 
 ## This Document
 
-This original CONTRIBUTING document has been composed by and for the Innovate for Vegas Foundation by [Dan Hugo](https://github.com/DanHugoDanHugo). Please find the revision controlled version of this document with history in the GitHub.com [Innovate for Vegas Foundation organization](https://github.com/InnovateForVegas) top-level repository at [CONTRIBUTING.md](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md).
+This original CONTRIBUTING document has been composed by and for the Innovate for Vegas Foundation by [Dan Hugo](https://github.com/DanHugoDanHugo).
+
+Please find the revision controlled version of this document with history in the GitHub.com [Innovate for Vegas Foundation organization](https://github.com/InnovateForVegas) top-level repository at [CONTRIBUTING.md](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md).
+
+Any Innovate for Vegas Foundation Entity, including any Initiative or Component Project, may provide Addenda to this document within a local version of a CONTRIBUTING document, which will refer to this original as a basis. The CONTRIBUTING document so amended shall govern contributions to that Entity.
 
 This document is published with Copyright held by the Innovate for Vegas Foundation.
 
