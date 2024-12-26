@@ -19,13 +19,13 @@
 
 # Contributing to Innovate for Vegas Foundation Entities
 
-This is the default CONTRIBUTING document designed for all entities owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas" or "foundation" or "we") subject to contribution of any kind by anyone. This file may be modified where appropriate in the form of addenda to this original document, but should not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works.
+This is the default CONTRIBUTING document designed for all Entities owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas" or "foundation" or "we") subject to contribution of any kind by anyone. This file may be modified where appropriate in the form of addenda to this original document or with addenda in a CONTRIBUTING document which also references this original authoritative base, which shall not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works in this original form or with any addenda applied.
 
-An Innovate for Vegas Entity ("entity") may be an Initiative ("initiative") or its Component Projects ("project" or "component" or "component project") or a combination thereof, and can be quantified as the sum of the time, effort, expertise, and creativity ("creative work") of those who add their creative work to any part of any entity in any way. An initiative and its component projects may be composed of zero or more collections of these works located in an accessible place or places, and may include other elements such as multimedia content, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means in a formal revision control system or in a less-structured tracking system, generally referred to as a Repository ("repository" or "repo"). Each of the entities and elements, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the Initiative to which each belongs, unless otherwise indicated per entity.
+An Innovate for Vegas Entity ("entity") is composed of Elements ("element" or "elements") which may be an Initiative ("initiative") or a Component Project ("project" or "component" or "component project") or a plural combination thereof, and can be quantified as the sum of the time, effort, expertise, and creativity ("creative work") of those who submit their contributions to any part of any entity or its elements in any way. An entity may be composed of zero or more collections of these works located in an accessible place or places, and may include other elements such as multimedia content, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means in a formal revision control system or in a less-structured tracking system, generally referred to as a Repository ("repository" or "repo"). Each of the entities and elements, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the Initiative to which each belongs, unless otherwise indicated per entity.
 
-A Contributor is any individual person or business entity ("contributor") adding materially to a project or repository, by way of new creative work stored or otherwise included as a component of the project ("contribution"). A contribution may be attributed to a business entity as a single contributor.
+A Contributor is any individual person or business entity ("contributor") adding materially to a project or repository, by way of new creative work stored or otherwise included as an element of an entity ("contribution"). A contribution may be attributed to a business entity as a single contributor.
 
-Contributions may also include but are not limited to these resources, components, and activities, which we include as creative work:
+Contributions may include but are not comprehensively defined or constrained by this normative list of activities, which we include as examples creative work:
 
 * Reporting a bug or defect
 * Constructive contribution to fixing or verifying bugs or defects
@@ -72,7 +72,7 @@ Additions or changes to a git repository ("commits"), including our repositories
 * [Git -s/--signoff commit switch](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s)
 * [GitHub Commit Signoffs](https://docs.github.com/en/organizations/managing-organization-settings/managing-the-commit-signoff-policy-for-your-organization#about-commit-signoffs)
 
-As of this writing, GitHub.com is considered the single source of truth for Innovate for Vegas Foundation regarding contributions of creative works, attestation of eligibility of those contributions, and attribution of those contributions to individual or business entities as named contributors, with regard to our entities.
+As of this writing, GitHub.com is considered the single source of truth for Innovate for Vegas Foundation regarding contributions of creative works, attestation of eligibility of those contributions, and attribution of those contributions to individual or business entities as named contributors, with regard to our entities. Actual sources of software code, documentation, and similar may be stored directly within repositories, while external items may be tracked in entity repositories for the purposes outlined in this document, our policies apply regardless of actual or virtual location of the entity.
 
 ## Copyright and License
 
@@ -116,11 +116,11 @@ Contributors to this repository may be anywhere on a skills/experience spectrum.
 
 Most source code is typically authored in the development programming language of choice, with variable names, comments, and other documentation created for English-speaking developers (this may also apply to non-code projects, such as documentation, marketing materials, visual cues, audio content, etc). Be aware that some contributors may not speak English as a first language, such that spelling and grammar issues may arise. These are easily edited and are learning opportunities for all.
 
-If possible, projects (code and otherwise) should be designed to be compatible with internationalization and localization (typically i18n and l10n) norms, and should additionally be as compatible as is possible with WAI-ARIA and any other relevant accessibility standards and practices.
+When possible and practical, entities (software and otherwise) should be designed to be compatible with internationalization and localization (typically i18n and l10n) norms, and should additionally be as compatible as is possible with WAI-ARIA, ADA, and any other relevant accessibility standards and practices.
 
 At any given point in the development of any project component (repository or otherwise), there may be deviations from these ideals. For example, if a translation to a particular language is not available, if internationalization is not completed for an entire project, if WAI-ARIA compliance is not completely implemented, etc. Every effort must be made to move any project in these directions to meet these goals when possible.
 
-When in doubt, check the CODE_OF_CONDUCT document associated with this repository and with Innovate for Vegas in general. When all else fails, be a [Good Person](https://www.thefreedictionary.com/good+person).
+When in doubt, check the CODE_OF_CONDUCT document associated with the entity of interest and with Innovate for Vegas in general. When all else fails, be a [Good Person](https://www.thefreedictionary.com/good+person).
 
 ## Component Project Repository Details
 
@@ -292,7 +292,7 @@ Further, the Innovate for Vegas Foundation reserves the right to reject any cont
 
 ## This Document
 
-This original CONTRIBUTING document has been composed by and for the Innovate for Vegas Foundation by [Dan Hugo](https://github.com/DanHugoDanHugo).
+This original, base CONTRIBUTING document has been composed by and for the Innovate for Vegas Foundation by [Dan Hugo](https://github.com/DanHugoDanHugo).
 
 Please find the revision controlled version of this document with history in the GitHub.com [Innovate for Vegas Foundation organization](https://github.com/InnovateForVegas) top-level repository at [CONTRIBUTING.md](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md).
 
