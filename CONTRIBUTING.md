@@ -17,28 +17,61 @@
  along with .github.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# Contributing to this Repository
+# Contributing to Innovate for Vegas Foundation Entities
 
 This is the default CONTRIBUTING document designed for all entities owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas" or "foundation" or "we") subject to contribution of any kind by anyone. This file may be modified where appropriate in the form of addenda to this original document, but should not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works.
 
-An Innovate for Vegas Initiative ("initiative") and its Component Projects ("project" or "component" or "component project") is the sum of the time, effort, expertise, and creativity ("creative work") of those who add their creative work to any part of an initiative or project in any way. An initiative and its component projects may be composed of zero or more Git Repositories located on GitHub.com or elsewhere, but may include other elements such as multimedia content, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means in a formal revision control system or in a less-structured tracking system ("repository"). Each of the components, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the Initiative to which each belongs, unless otherwise indicated per Component Project.
+An Innovate for Vegas Entity may be an Initiative ("initiative") or its Component Projects ("project" or "component" or "component project") or a combination thereof, and can be quantified as the sum of the time, effort, expertise, and creativity ("creative work") of those who add their creative work to any part of any entity in any way. An initiative and its component projects may be composed of zero or more collections of these works located in an accessible place or places, and may include other elements such as multimedia content, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means in a formal revision control system or in a less-structured tracking system, generally referred to as a Repository ("repository" or "repo"). Each of the entities and elements, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the Initiative to which each belongs, unless otherwise indicated per entity.
 
-A Contributor is any individual person or entity ("contributor") adding materially to a project or repository, by way of new creative work stored or otherwise included as a component of the project ("contribution").
+A Contributor is any individual person or business entity ("contributor") adding materially to a project or repository, by way of new creative work stored or otherwise included as a component of the project ("contribution"). A contribution may be attributed to a business entity as a single contributor.
 
-Contributions may also include but are not limited to the following resources or components, which we include as creative work:
+Contributions may also include but are not limited to these resources, components, and activities, which we include as creative work:
 
 * Reporting a bug or defect
 * Discussing the current state of the code or other parts of an initiative
 * Submitting a fix or other change
 * Proposing new features or useful changes
 * Becoming a maintainer of a project or project repository or other component(s)
+* Testing entities or elements to insure they function or exist as intended
+* Translating documents, including written or spoken word, into one or more additional languages
+* Designing physical or mechanical items
+* Creating and editing content to aid in the use or understanding of any entities as they are deployed
+* Describing what our foundation intends to accomplish to others as a form of outreach and engagement with communities
+* Co-creation of entities and their features with community members at large
+* Any of a variety of other creative works and actions which further the entity development goals
 
-All contributors to any part of any project or project component repository or project-related resource or component to which this CONTRIBUTING policy applies shall make any contribution in accordance with the [Developer Certification of Origin](https://developercertificate.org/).
+## Eligibility of Contributions and Attestation
+
+All contributors to any part of any entity, including but not limited to Initiatives Component Project repositories or repository-like stores to which this CONTRIBUTING policy applies shall make any contribution in accordance with the [Developer Certification of Origin](https://developercertificate.org/).
+
+The Developer Certification Origin text is similar to this normative excerpt (visit the link provided for the most current version, to which a contributor agrees):
+
+> Developer Certificate of Origin
+> Version 1.1
+>
+> Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
+>
+> Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+>
+> Developer's Certificate of Origin 1.1
+>
+> By making a contribution to this project, I certify that:
+>
+> (a) The contribution was created in whole or in part by me and I have the right to submit it under the open source license indicated in the file; or
+>
+> (b) The contribution is based upon previous work that, to the best of my knowledge, is covered under an appropriate open source license and I have the right under that license to submit that work with modifications, whether created in whole or in part by me, under the same open source license (unless I am permitted to submit under a different license), as indicated in the file; or
+>
+> (c) The contribution was provided directly to me by some other person who certified (a), (b) or (c) and I have not modified it.
+>
+> (d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
+>
 
 Commits to a git repository, including our repositories maintained on GitHub, must be submitted with a *signoff* option set, attesting to compliance with the Developer Certification of Origin policy. Submissions of creative work to any repository should include that signoff, as documented here:
 
 * [Git -s/--signoff commit switch](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s)
 * [GitHub Commit Signoffs](https://docs.github.com/en/organizations/managing-organization-settings/managing-the-commit-signoff-policy-for-your-organization#about-commit-signoffs)
+
+GitHub.com is considered a single source of truth regarding contributions of creative works, attestation of eligibility of those contributions, and attribution of those contributions to individual or business entities as named contributors.
 
 ## Copyright, Copyright Assignment, and Licensing of Contributed Creative Work
 
@@ -46,7 +79,7 @@ Any and all creative work contributed to this project repository by any contribu
 
 A contributor to this repository shall make any contributions such that they comply with, and will be governed by, the selected license for that project repository, irrevocably and in perpetuity. Contributor agrees to assign copyright of contributed creative work to the Innovate for Vegas Foundation, irrevocably and in perpetuity.
 
-A particular project repository will be developed with a stated license, for example the selected software coding repository default is likely the gpl-3.0 license, though lgpl-3.0 or some similar license might be appropriate in some cases. If at any time during the life of a project or its component repositories, a change in license is necessary, contributors agree to such license changes and will be apprised if possible if and when such changes occur.
+A particular Component Project repository will be developed with a stated license, for example the selected software coding repository default is likely the gpl-3.0 license, though lgpl-3.0 or some similar license might be appropriate in some cases. If at any time during the life of an Initiative or its Component Project Repositories, a change in license is necessary, contributors agree to such license changes and will be apprised if possible if and when such changes occur.
 
 Visit the [Choose a License Appendix](https://choosealicense.com/appendix/) for a table of licenses and basic information about them as a starting point for license research and selection.
 
@@ -54,13 +87,21 @@ In many case, a particular project component may not be software. Graphical asse
 
 Visit the [Choose A License non-software page](https://choosealicense.com/non-software/) for some ideas here.
 
-In cases where one single repository contains creative work with different applicable licenses, specific items must be associated with the specific license under which they are made available for use. Ideally, repositories can be constructed and combined to allow a simpler, single-license-per-repository approach.
+In cases where one single repository contains creative work with different applicable licenses, specific items must be associated with the specific license under which they are made available for use. Ideally, repositories can be constructed and combined to allow a simpler, single-license-per-repository approach, or will make it clear to all if multiple licenses apply and how.
 
 ### Grant-Back License Provision
 
 Any creative work contributed to any Innovate for Vegas Initiative or Component Project, with copyright transferred to the Innovate for Vegas Foundation on submission, is immediately licensed back to its contributor(s) in perpetuity for any uses, including use in other initiatives or component projects making use of other license terms. Submissions of creative work and assignment of copyright in no ways limits the use by the submitter of their own work in any way, at any time.
 
 Special care must be taken to note, the grant-back license provision applies to contributions by a submitter to the submission, not to the entire component project or its parts to which a submission is contributed. Submission of a patch, grammar edit, or language translation, for examples, does not extend the grant-back license to the original or source elements to which changes where applied and submitted, but only to the changes. Similarly, the submitter of original sources or component project elements maintains a grant-back license to use those contributions, but does not receive a similar grant-back provision on changes submitted to the original submission by others.
+
+Contributors may opt to be listed in the AUTHORS file for any particular repository, which is intended to advertise copyright holders (thus Innovate for Vegas Foundation as well as any contributors with grant-back license, individuals still retain copyrights to contributions as they exist prior to contribution, and retain the grant-back license to the creative work contributed). Additional information is available in the Attribution section below in this document.
+
+### Contributor License Agreements
+
+If copyright to any contribution of creative work cannot or must not be be assigned to Innovate for Vegas Foundation, then a Contributor License Agreement ("CLA") must be provided for permanent and irrevocable license to include such creative works as contributed, in perpetuity.
+
+As with the grant-back license provision, holders of copyright for relevant creative works licensed according to a CLA, are to be listed in an AUTHORS file indicating contributions, copyrights, and CLA references.
 
 ## Inclusivity + Diversity + Accessibility
 
@@ -104,18 +145,18 @@ All contribution to any Innovate for Vegas project or project component or proje
 
 The [Agile for Volunteers](https://agileforvolunteers.org) website and [Doc:Agile for Volunteers](https://github.com/InnovateForVegas/doc-agile-for-volunteers) documentation repository are authoritative resources for additional direction.
 
-### Initiative and Project Policies
+### Initiative and Component Project Policies
 
 Unless otherwise and specifically indicated with replacement files in this repository, this component project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
 
 * [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
 * [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
 
-### Naming Things
+### Naming Repositories
 
-Each Project will be comprised of many parts, some contained within repositories, others elsewhere. A top-level repository with this consistent naming scheme will help others to locate this top level and navigate the project component hierarchy: **ov-(project-name)** .
+Each Initiative will be comprised of many parts, some contained within repositories, others elsewhere but tracked within repositories. A top-level repository with this consistent naming scheme will help others to locate this top level and navigate the project component hierarchy: **init-(project-name)** .
 
-This is the top-level OverView repository, which will contain a high-level description of the project itself, a project specification if available, and any other relevant high-level resources and information.
+This is the top-level Initiative repository, which will contain a high-level description of the project itself, a project specification if available, and any other relevant high-level resources and information.
 
 Additional repositories added to the project should adhere to a similar naming scheme, for example, **be-(project-name)** for backend code, **fe-(project-name)** for frontend code, **doc-(project-name)** for separate project documentation (perhaps including i18n and l10n work), and more may be added. This convention will, ideally, make navigating the GitHub repository organizational scheme (which is not much) easier as more repositories are added. Note that adding a suffix to **project-name** is acceptable to indicate more detail (eg if there is more than one backend or frontend repo for a given project, for experimentation or other).
 
@@ -123,6 +164,7 @@ Here is a tabular example summary of some naming convention ideas that could mak
 
 | Example Name       | Description                                                                                   |
 |--------------------|-----------------------------------------------------------------------------------------------|
+| init-project-name  | Initiative repository, entrypoint for those interested in its pursuits                        |
 | ov-project-name    | Overview repository, top-level summary README, specs, etc                                     |
 | be-component-py    | A backend part of the project, written mostly in python                                       |
 | fe-component-js    | A frontend part of the project, written in javascript                                         |
@@ -146,7 +188,7 @@ If TDD is not for you, the bare minimum **requirement** is that test code be ava
 
 If a test fails in an automated or manual integration and deployment pipeline or workflow, **resolving the test failure is the highest priority**.
 
-### GitFlow vs CI/CD
+### GitFlow vs GitHubFlow vs CI/CD
 
 With distributed teams and schedules, voluntary time commitments and differing timelines, the use of [GitFlow](http://datasift.github.io/gitflow/IntroducingGitFlow.html) to organize code changes, feature changes, and other Pull Requests and Branching and whatnot, is sensible. A functional rhythm within a particular development team on a particular project component may deviate slightly from this workflow, but in order to enable easier on-boarding of new contributors of varying skill levels, the GitFlow workflow baseline is a reasonable standard.
 
@@ -172,7 +214,7 @@ Useful commit messages are helpful in the near term, and throughout all time.
 
 We will generally follow the advice found at [Conventional Commits](https://www.conventionalcommits.org) and ask the same of all contributors.
 
-### Versioning Things
+### Versioning Entities, Elements, and Deployments
 
 Version numbers can be confusing once software is released, especially if there are different versions used for testing, release, etc.
 
@@ -212,7 +254,7 @@ GitHub et al. also support AUTHORS and CONTRIBUTORS files per repository, which 
 
 Some may wish to obscure their email address(es), to enable this GitHub provides a *noreply* email address which may be used in place of a public email address for commit attribution and in other places listed above.
 
-For example, the original author of this file, Dan Hugo, could be referred to in commits, AUTHORS, and other places on the GitHub.com platform, as one of
+For example, the original author of this file, Dan Hugo, with GitHub username DanHugoDanHugo, could be referred to in commits, AUTHORS, and other places on the GitHub.com platform, as one of
 
 * DanHugoDanHugo <1445564+DanHugoDanHugo@users.noreply.github.com>
 * DanHugoDanHugo <dhugo@reallycool.com>
@@ -235,7 +277,9 @@ All participation in any aspect of contribution of creative work, and in the act
 
 ## Right to Refuse
 
-The Innovate for Vegas Foundation reserves the right to reject submissions and to refuse participation in any case where submissions do not adhere to the requirements stipulated in this document or in this document plus any addenda as applicable to a particular Initiative or Component Project, or any any case where Code of Conduct violations create an unsafe or unethical environment for anyone.
+The Innovate for Vegas Foundation reserves the right to reject submissions and to refuse participation in any case where submissions do not adhere to the requirements stipulated in this document or in this document plus any addenda as applicable to a particular Entity or Element, or any any case where Code of Conduct violations create an unsafe or unethical environment for anyone.
+
+Further, the Innovate for Vegas Foundation reserves the right to reject any contribution of creative work which does not include an attestation sign-off, or does not comply with copyright assignment policies nor with a current CLA in place with copyright holder(s). This rejection may be temporary until such time as attestation is corrected, copyright assignment is agreed upon, or a CLA applicable to the contribution of a creative work can be implemented.
 
 ## This Document
 
