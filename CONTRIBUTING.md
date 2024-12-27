@@ -122,7 +122,7 @@ At any given point in the development of any project component (repository or ot
 
 When in doubt, check the CODE_OF_CONDUCT document associated with the entity of interest and with Innovate for Vegas in general. When all else fails, be a [Good Person](https://www.thefreedictionary.com/good+person).
 
-## Component Project Repository Details
+## Repository Practices
 
 The following are applicable to creative works that are source code or similar and which shall follow common and useful Best Practices for software development, described herein. Best Practices not described herein are left to project and repository teams to adopt and use in order to make developing the project and its components productive, educational, and enjoyable.
 
@@ -152,20 +152,20 @@ All contribution to any Innovate for Vegas project or project component or proje
 
 The [Agile for Volunteers](https://agileforvolunteers.org) website and [Doc:Agile for Volunteers](https://github.com/InnovateForVegas/doc-agile-for-volunteers) documentation repository are authoritative resources for additional direction.
 
-### Initiative and Component Project Policies
+### Entity Policies
 
-Unless otherwise and specifically indicated with replacement files in this repository, this component project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
+Unless otherwise and specifically indicated with replacement files in this entity repository, this entity will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
 
 * [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
-* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
+* [Contributing to this Entity - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
 
-### Naming Repositories
+### Repository Naming
 
-Each Initiative will be comprised of many parts, some contained within repositories, others elsewhere but tracked within repositories. A top-level repository with this consistent naming scheme will help others to locate this top level and navigate the project component hierarchy: **init-(project-name)** .
+Each Entity is or will be comprised of many Entities and Elements, many contained within repositories, others elsewhere but tracked within repositories. A top-level repository with this consistent naming scheme will help others to locate this top level and navigate the project component hierarchy: **init-(initiative-name)** .
 
-This is the top-level Initiative repository, which will contain a high-level description of the project itself, a project specification if available, and any other relevant high-level resources and information.
+This is the top-level Initiative repository, which will contain a high-level summary description of the initiative itself and any other relevant high-level resources and information, in addition to references to other elements of the entity.
 
-Additional repositories added to the project should adhere to a similar naming scheme, for example, **be-(project-name)** for backend code, **fe-(project-name)** for frontend code, **doc-(project-name)** for separate project documentation (perhaps including i18n and l10n work), and more may be added. This convention will, ideally, make navigating the GitHub repository organizational scheme (which is not much) easier as more repositories are added. Note that adding a suffix to **project-name** is acceptable to indicate more detail (eg if there is more than one backend or frontend repo for a given project, for experimentation or other).
+Additional repositories added to the initiative should adhere to a similar naming scheme, for example, **be-(initiative-name)** for backend code, **fe-(initiative-name)** for frontend code, **doc-(initiative-name)** for separate initiative documentation (perhaps including i18n and l10n work), and more may be added. This convention will, ideally, make navigating the GitHub repository organizational scheme easier as more repositories are added. Note that adding a suffix to **initiative-name** is acceptable to indicate more detail (eg if there is more than one backend or frontend repo for a given initiative, for experimentation or other).
 
 Here is a tabular example summary of some naming convention ideas that could make navigating a sea of repositories easier (this is a normative list for example use):
 
