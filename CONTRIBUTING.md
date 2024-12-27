@@ -122,6 +122,12 @@ At any given point in the development of any project component (repository or ot
 
 When in doubt, check the CODE_OF_CONDUCT document associated with the entity of interest and with Innovate for Vegas in general. When all else fails, be a [Good Person](https://www.thefreedictionary.com/good+person).
 
+### Minor Participation
+
+Contributions of time, effort, and expertise on the part of Volunteers is generally welcome and valued. In order to provide a safe and transparent environment for all participants, those volunteers not yet attained the age of adulthood(18 years in the United States), shall be allowed with permission and consent from a parent or legal guardian. Contributions and participation will necessarily include some forms of interaction, virtual or in-person, and interaction with online resource, compliance with all relevant laws and regulations is required.
+
+[COPPA - Child Online Privacy Protection Rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
+
 ## Repository Practices
 
 The following are applicable to creative works that are source code or similar and which shall follow common and useful Best Practices for software development, described herein. Best Practices not described herein are left to project and repository teams to adopt and use in order to make developing the project and its components productive, educational, and enjoyable.
