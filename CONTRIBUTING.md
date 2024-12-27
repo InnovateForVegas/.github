@@ -155,9 +155,11 @@ A new repository should contain at least a README.md stub (always updatable), wi
 
 Each initiative and each team per component project, may choose to follow a particular project management and workflow style that suits the team and the project or project component.
 
-All contribution to any Innovate for Vegas project or project component or project repository shall follow the Agile for Volunteers methodology and principles introduced in the organization HOWTO documentation, with English language version at [HOWTO: Agile for Volunteers](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md).
+All contribution to any Innovate for Vegas Entity shall follow the Agile for Volunteers methodology and principles introduced in the organization HOWTO documentation and the Agile for Volunteers Initiative.
 
-The [Agile for Volunteers](https://agileforvolunteers.org) website and [Doc:Agile for Volunteers](https://github.com/InnovateForVegas/doc-agile-for-volunteers) documentation repository are authoritative resources for additional direction.
+* [HOWTO: Agile for Volunteers](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/agile.md).
+* [Agile for Volunteers](https://agileforvolunteers.org)
+* [Doc:Agile for Volunteers](https://github.com/InnovateForVegas/doc-agile-for-volunteers)
 
 ### Entity Policies
 
