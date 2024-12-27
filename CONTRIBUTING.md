@@ -129,6 +129,14 @@ Contributions of time, effort, and expertise on the part of Volunteers is genera
 * [COPPA - Child Online Privacy Protection Act](https://www.ftc.gov/business-guidance/privacy-security/childrens-privacy)
 * [COPPA - Child Online Privacy Protection Rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
 
+### Join an Entity Team
+
+At any given time there may be more than one entity in progress within the Innovate for Vegas organization, found on GitHub or perhaps elsewhere for non-code-like initiatives. Until a better system is identified and implemented, initiative and component projects participation is managed through the GitHub Teams feature, identifying the team members involved and meeting with them to discuss participation is a great early step. We encourage those interested in joining an initiative and/or component projects to bring curiosity, skill, or both!
+
+### Propose a new Entity
+
+If there is a community-elevating idea not embodied in an existing initiative or other entity already in progress, suggest one! As part of our Whole Team approach, anyone can propose pursuit of a new entity and enter the ideation, innovation, implementation, and integration workflow.
+
 ## Repository Practices
 
 The following are applicable to creative works that are source code or similar and which shall follow common and useful Best Practices for software development, described herein. Best Practices not described herein are left to project and repository teams to adopt and use in order to make developing the project and its components productive, educational, and enjoyable.
@@ -138,14 +146,6 @@ The following are applicable to creative works that are source code or similar a
 ### Main Branch Naming
 
 To be clear immediately, the global transition to *main* as a preferred default branch name over the legacy *master* is in effect for all Innovate for Vegas Foundation repositories.
-
-### Join an Initiative
-
-At any given time there may be more than one top-level initiative in progress in the Innovate for Vegas organization, found on GitHub or perhaps elsewhere for non-code-like initiatives. Until a better system is identified and implemented, initiative and component projects participation is managed through the GitHub Teams feature, identifying the team members involved and meeting with them to discuss participation is a great early step. We encourage those interested in joining an initiative and/or component projects to bring curiosity, skill, or both, as long as there is also interest!
-
-### Start an Initiative
-
-If there is not an existing initiative already in progress, suggest one! At the time of this writing, a new initiative topic begins each month as the previous topic wraps up from ideation and innovation to the full stack of ideation, innovation, implementation, and integration. The project topics align for the most part with a capstone project, and also lean heavily toward civic utility, whether working directly with municipal partners from the start, or later as an initiative reaches some level of usability for consideration and possibly continued development. With all of this in mind, new initiative topic ideas, and new components to add to an existing initiative, are both welcome by way of additional discussion and consideration.
 
 ### Getting Started
 
