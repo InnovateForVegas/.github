@@ -145,7 +145,7 @@ The following are applicable to creative works that are source code or similar a
 
 ### Main Branch Naming
 
-To be clear immediately, the global transition to *main* as a preferred default branch name over the legacy *master* is in effect for all Innovate for Vegas Foundation repositories.
+The global and nearly-universal transition to *main* as a preferred default branch name over the legacy *master* is in effect for all Innovate for Vegas Foundation repositories.
 
 ### Getting Started
 
