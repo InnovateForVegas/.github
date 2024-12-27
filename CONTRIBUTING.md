@@ -126,7 +126,8 @@ When in doubt, check the CODE_OF_CONDUCT document associated with the entity of 
 
 Contributions of time, effort, and expertise on the part of Volunteers is generally welcome and valued. In order to provide a safe and transparent environment for all participants, those volunteers not yet attained the age of adulthood(18 years in the United States), shall be allowed with permission and consent from a parent or legal guardian. Contributions and participation will necessarily include some forms of interaction, virtual or in-person, and interaction with online resource, compliance with all relevant laws and regulations is required.
 
-[COPPA - Child Online Privacy Protection Rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
+* [COPPA - Child Online Privacy Protection Act](https://www.ftc.gov/business-guidance/privacy-security/childrens-privacy)
+* [COPPA - Child Online Privacy Protection Rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
 
 ## Repository Practices
 
