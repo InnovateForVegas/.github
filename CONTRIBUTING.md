@@ -124,7 +124,7 @@ When in doubt, check the CODE_OF_CONDUCT document associated with the entity of 
 
 ### Minor Participation
 
-Contributions of time, effort, and expertise on the part of Volunteers is generally welcome and valued. In order to provide a safe and transparent environment for all participants, those volunteers not yet attained the age of adulthood(18 years in the United States), shall be allowed with permission and consent from a parent or legal guardian. Contributions and participation will necessarily include some forms of interaction, virtual or in-person, and interaction with online resource, compliance with all relevant laws and regulations is required.
+Contributions of time, effort, and expertise on the part of Volunteers is generally welcome and valued. In order to provide a safe and transparent environment for all participants, those volunteers who have not yet attained the age of adulthood (18 years in the United States), shall be allowed with permission and consent from a parent or legal guardian. Contributions and participation will necessarily include some forms of interaction, virtual or in-person, and interaction with online resource, compliance with all relevant laws and regulations is required.
 
 * [COPPA - Child Online Privacy Protection Act](https://www.ftc.gov/business-guidance/privacy-security/childrens-privacy)
 * [COPPA - Child Online Privacy Protection Rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
@@ -141,7 +141,7 @@ If there is a community-elevating idea not embodied in an existing initiative or
 
 The following are applicable to creative works that are source code or similar and which shall follow common and useful Best Practices for software development, described herein. Best Practices not described herein are left to project and repository teams to adopt and use in order to make developing the project and its components productive, educational, and enjoyable.
 
-**Note:** Top-level projects will usually have a Project Overview repository (ov-project-name convention) and will be tagged, along with other project repositories, with a cfv- naming convention. To become familiar with existing projects if considering participation in one of these, or to suggest a new project, remember that this hierarchy enables contribution of new components to an existing top-level project in addition to starting a new top-level project.
+**Note:** Initiatives will have a top-level Initiative repository (init-initiative-name convention) and will be tagged, along with other project repositories, with a ifv- naming convention. To become familiar with existing initiatives if considering participation in one of these, or to suggest a new initiative, remember that this hierarchy enables contribution of new components to an existing top-level project in addition to starting a new top-level project.
 
 ### Main Branch Naming
 
@@ -198,11 +198,9 @@ Always test your code. This is good advice anywhere and everywhere if you are a 
 
 While each project, each repository, and each team or group of contributors working on any of these may adopt their own Best Practices by experience, practicality, consensus, etc, it is usually best to make a choice and follow through with it, and to inform newcomers of these practices.
 
-By default, Innovate for Vegas Projects should follow [Test Driven Development](https://www.agilealliance.org/glossary/tdd/) practices and methodologies. There are countless documents, tutorials, demonstrations, and examples in written, audio, and video form, and you yourself likely know someone who is an advocate of TDD. You may also know someone who is most definitely not an advocate of TDD.
+By default, software and other entities to the extent his is applicable, will follow [Test Driven Development](https://www.agilealliance.org/glossary/tdd/) practices and methodologies. There are countless documents, tutorials, demonstrations, and examples in written, audio, and video form.
 
-If TDD is not for you, the bare minimum **requirement** is that test code be available, that test code is run and passes before code is committed to a repository (on any branch), and that these tests be executable in any automated or manual integration and deployment scheme, and that these tests pass.
-
-If a test fails in an automated or manual integration and deployment pipeline or workflow, **resolving the test failure is the highest priority**.
+The bare minimum **requirement** is that tests be available to verify and validate an entity. While this is typically a software best practice, testing, verifying, and validating any entity, and any changes to entities over time, should be a primary concern and enabled through the design and inclusion of tests to accomplish these.
 
 ### GitFlow vs GitHubFlow vs CI/CD
 
