@@ -72,7 +72,7 @@ Additions or changes to a git repository ("commits"), including our repositories
 * [Git -s/--signoff commit switch](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s)
 * [GitHub Commit Signoffs](https://docs.github.com/en/organizations/managing-organization-settings/managing-the-commit-signoff-policy-for-your-organization#about-commit-signoffs)
 
-As of this writing, GitHub.com is considered the single source of truth for Innovate for Vegas Foundation regarding contributions of creative works, attestation of eligibility of those contributions, and attribution of those contributions to individual or business entities as named contributors, with regard to our entities. Actual sources of software code, documentation, and similar may be stored directly within repositories, while external items may be tracked in entity repositories for the purposes outlined in this document, our policies apply regardless of actual or virtual location of the entity.
+As of this writing, our InnovateForVegas organizational presence on GitHub.com is considered the single source of truth for Innovate for Vegas Foundation regarding contributions of creative works, attestation of eligibility of those contributions, and attribution of those contributions to individual or business entities as named contributors, with regard to our entities. Actual sources of software code, documentation, and similar may be stored directly within repositories, while external items may be tracked in entity repositories for the purposes outlined in this document, our policies apply regardless of actual or virtual location of the entity.
 
 ## Copyright and License
 
