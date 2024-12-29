@@ -80,7 +80,7 @@ Any and all creative work contributed to this entity by any contributor must be 
 
 Any and all entities maintained by Innovate for Vegas Foundation, found directly or referenced within our GitHUb organization, shall be copyright Innovate for Vegas Foundation unless otherwise stated per entity.
 
-Due in part to the way laws protect Copyright and License Terms as they apply to Creative Works, those works created wholly or substantially by automation, including but not limited to Artificial Intelligence tools, are not compatible with the work and efforts of the Innovate for Vegas Foundation. Creative Works not executed substantially by a human or humans cannot be contributed to any entity.
+Due in part to the way laws protect Copyright and License Terms as they apply to Creative Works, those works created wholly or substantially by automation, including but not limited to Artificial Intelligence tools, are not compatible with the work and efforts of the Innovate for Vegas Foundation. Creative Works not executed substantially by a human or humans cannot be contributed to any entity. Exceptions may be allowed where such works created by automation may be marked free from copyright and license, for unencumbered use, such that inclusion will not conflict with copyright and license of any specific entity.
 
 ### Copyright Assignment
 
