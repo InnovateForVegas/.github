@@ -124,6 +124,12 @@ At any given point in the development of any project component (repository or ot
 
 When in doubt, check the CODE_OF_CONDUCT document associated with the entity of interest and with Innovate for Vegas in general. When all else fails, be a [Good Person](https://www.thefreedictionary.com/good+person).
 
+### Membership
+
+It is not necessary to join the Innovate for Vegas Foundation or to participate as a member of a team within this organization in order to contribute to Innovate for Vegas Entities. External contributions may be submitted using the standard GitHub Pull Request mechanism, making use of Pull Requests Templates present in a particular Entity Repository and following any requirements and suggestions therein. Pull Requests may be accepted, rejected outright, or returned for additional attention, in an iterative process which may result in acceptance or rejection.
+
+Joining an Entity Team within the Innovate for Vegas organization using the Team features of GitHub.com is optional but encouraged where ongoing contribution and whole team participation is interesting and appealing.
+
 ### Minor Participation
 
 Contributions of time, effort, and expertise on the part of Volunteers is generally welcome and valued. In order to provide a safe and transparent environment for all participants, those volunteers who have not yet attained the age of adulthood (18 years in the United States), shall be allowed with permission and consent from a parent or legal guardian. Contributions and participation will necessarily include some forms of interaction, virtual or in-person, and interaction with online resource, compliance with all relevant laws and regulations is required.
