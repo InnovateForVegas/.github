@@ -137,10 +137,6 @@ Contributions of time, effort, and expertise on the part of Volunteers is genera
 * [COPPA - Child Online Privacy Protection Act](https://www.ftc.gov/business-guidance/privacy-security/childrens-privacy)
 * [COPPA - Child Online Privacy Protection Rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
 
-### Join an Entity Team
-
-At any given time there may be more than one entity in progress within the Innovate for Vegas organization, found on GitHub or perhaps elsewhere for non-code-like initiatives. Until a better system is identified and implemented, initiative and component projects participation is managed through the GitHub Teams feature, identifying the team members involved and meeting with them to discuss participation is a great early step. We encourage those interested in joining an initiative and/or component projects to bring curiosity, skill, or both!
-
 ### Propose a new Entity
 
 If there is a community-elevating idea not embodied in an existing initiative or other entity already in progress, suggest one! As part of our Whole Team approach, anyone can propose pursuit of a new entity and enter the ideation, innovation, implementation, and integration workflow.
