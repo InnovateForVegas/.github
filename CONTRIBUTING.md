@@ -137,15 +137,13 @@ Contributions of time, effort, and expertise on the part of Volunteers is genera
 * [COPPA - Child Online Privacy Protection Act](https://www.ftc.gov/business-guidance/privacy-security/childrens-privacy)
 * [COPPA - Child Online Privacy Protection Rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
 
-### Propose a new Entity
+### New Entity Proposal
 
-If there is a community-elevating idea not embodied in an existing initiative or other entity already in progress, suggest one! As part of our Whole Team approach, anyone can propose pursuit of a new entity and enter the ideation, innovation, implementation, and integration workflow.
+Proposals for new entities (whether completely new Initiatives or Component Projects of existing Initiatives, or other) are welcome from external participants with or without contribution to any Entity, and from any contributors of creative works and any Team members in keeping with the Whole Team structure of Innovate for Vegas Foundation.
 
 ## Repository Practices
 
-The following are applicable to creative works that are source code or similar and which shall follow common and useful Best Practices for software development, described herein. Best Practices not described herein are left to project and repository teams to adopt and use in order to make developing the project and its components productive, educational, and enjoyable.
-
-**Note:** Initiatives will have a top-level Initiative repository (init-initiative-name convention) and will be tagged, along with other project repositories, with a ifv- naming convention. To become familiar with existing initiatives if considering participation in one of these, or to suggest a new initiative, remember that this hierarchy enables contribution of new components to an existing top-level project in addition to starting a new top-level project.
+The Repository is a collection of entity files, issues, discussions, team groupings, and other meta information about an Initiative, Component Project, or any other effort in the purview of the Innovate for Vegas Foundation and its members and collaborators. In many cases a Repository will hold and track software development efforts, however any Entity may be tracked using Repository tools and methods, aimed at maintaining a history of volunteer contribution and attribution across any type of Entity.
 
 ### Main Branch Naming
 
