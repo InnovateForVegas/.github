@@ -145,6 +145,8 @@ Proposals for new entities (whether completely new Initiatives or Component Proj
 
 The Repository is a collection of entity files, issues, discussions, team groupings, and other meta information about an Initiative, Component Project, or any other effort in the purview of the Innovate for Vegas Foundation and its members and collaborators. In many cases a Repository will hold and track software development efforts, however any Entity may be tracked using Repository tools and methods, aimed at maintaining a history of volunteer contribution and attribution across any type of Entity.
 
+This section of the Contributing document regarding Repository practices is most likely to be altered with addenda or outright change within a particular Entity Repository to align most effectively with the particular Entity, its Teams, and associated goals and paths to reach them.
+
 ### Main Branch Naming
 
 The global and nearly-universal transition to *main* as a preferred default branch name over the legacy *master* is in effect for all Innovate for Vegas Foundation repositories.
@@ -172,27 +174,11 @@ Unless otherwise and specifically indicated with replacement files in this entit
 
 ### Repository Naming
 
-Each Entity is or will be comprised of many Entities and Elements, many contained within repositories, others elsewhere but tracked within repositories. A top-level repository with this consistent naming scheme will help others to locate this top level and navigate the project component hierarchy: **init-(initiative-name)** .
+Each Entity is or will be comprised of many Entities and Elements, many contained within repositories, others elsewhere but tracked within repositories. A consistent naming scheme helps to organize all of the Entities withing the InnovateForVegas organization on the GitHub.com platform as the number of Entities grows with time and reach.
 
-This is the top-level Initiative repository, which will contain a high-level summary description of the initiative itself and any other relevant high-level resources and information, in addition to references to other elements of the entity.
+The naming scheme in use is documented in the foundation Howto documents at
 
-Additional repositories added to the initiative should adhere to a similar naming scheme, for example, **be-(initiative-name)** for backend code, **fe-(initiative-name)** for frontend code, **doc-(initiative-name)** for separate initiative documentation (perhaps including i18n and l10n work), and more may be added. This convention will, ideally, make navigating the GitHub repository organizational scheme easier as more repositories are added. Note that adding a suffix to **initiative-name** is acceptable to indicate more detail (eg if there is more than one backend or frontend repo for a given initiative, for experimentation or other).
-
-Here is a tabular example summary of some naming convention ideas that could make navigating a sea of repositories easier (this is a normative list for example use):
-
-| Example Name       | Description                                                                                   |
-|--------------------|-----------------------------------------------------------------------------------------------|
-| init-project-name  | Initiative repository, entrypoint for those interested in its pursuits                        |
-| ov-project-name    | Overview repository, top-level summary README, specs, etc                                     |
-| be-component-py    | A backend part of the project, written mostly in python                                       |
-| fe-component-js    | A frontend part of the project, written in javascript                                         |
-| api-project-name   | A stand-alone API coded spec (OpenAPI, etc) separated from language/platform implementation   |
-| db-project-sql     | A database schema definition in sql                                                           |
-| doc-project        | Project documentation intended for external use (users, developers, etc)                      |
-| app-project        | A stand-alone or native application component of a project                                    |
-| ui-project         | User Interface designs and elements, possibly in html, svg, or similar textual forms          |
-
-Organization of each repository, and of project components not stored within GitHub or a git repository in general, are likely to have their own particular needs based on programming language, architectural choices, and sensibility. Aside from inclusion of LICENSE and other standard files to comply with the Innovate for Vegas open source development and publishing scheme, naming conventions and repository organization are left to the contributors and consensus per repository.
+* [HOWTO: Naming and Versioning](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/naming.md)
 
 ### Testing and Test Driven Development
 
