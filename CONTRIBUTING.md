@@ -181,7 +181,7 @@ Each Entity is or will be comprised of many Entities and Elements, many containe
 
 The naming scheme in use is documented in the foundation Howto documents at
 
-* [HOWTO: Naming and Versioning](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/naming.md)
+* [HOWTO: Entity Naming](https://github.com/InnovateForVegas/doc-org-howtos/blob/main/doc/en/naming.md)
 
 ### Testing and Test Driven Development
 
