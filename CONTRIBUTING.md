@@ -1,5 +1,5 @@
 ---
-version: 0.8.0
+version: 0.8.1
 ---
 <!--
  Copyright (C) 2022 Innovate for Vegas Foundation
@@ -24,9 +24,9 @@ version: 0.8.0
 
 This is the default CONTRIBUTING document designed for all Entities owned and maintained by the Innovate for Vegas Foundation ("Innovate for Vegas" or "foundation" or "we") subject to contribution of any kind by anyone. This file may be modified where appropriate in the form of addenda to this original document or with addenda in a CONTRIBUTING document which also references this original authoritative base, which shall not compromise the fundamental ethos of the Innovate for Vegas Foundation and its population of Contributors of Creative Works in this original form or with any addenda applied.
 
-An Innovate for Vegas Entity ("entity") is composed of Elements ("element" or "elements") which may be an Initiative ("initiative") or a Component Project ("project" or "component" or "component project") or a plural combination thereof, and can be quantified as the sum of the time, effort, expertise, and creativity ("creative work") of those who submit their contributions to any part of any entity or its elements in any way. An entity may be composed of zero or more collections of these works located in an accessible place or places, and may include other elements such as multimedia content, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means in a formal revision control system or in a less-structured tracking system, generally referred to as a Repository ("repository" or "repo"). Each of the entities and elements, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTOR terms of the Initiative to which each belongs, unless otherwise indicated per entity.
+An Innovate for Vegas Entity ("entity") is composed of Initiative ("initiative") or a Component Project ("project" or "component" or "component project") repositories, or a plural combination thereof, or by other Elements ("element" or "elements") which may be quantified as the sum of the time, effort, expertise, and creativity ("creative work") of those who submit their contributions to any part of any entity or its elements in any way. An entity may be composed of zero or more collections of these works located in an accessible place or places, and may include other elements such as multimedia content, visual artwork, written word, and any other relevant items ("components") stored and tracked by any means in a formal revision control system or in a less-structured tracking system, generally referred to as a Repository ("repository" or "repo"). Each of the entities and elements, stored and tracked in whichever form by whichever tools and techniques, shall adopt and be governed by the default LICENSE and CONTRIBUTING terms of the Initiative to which each belongs, unless otherwise indicated per Entity.
 
-A Contributor is any individual person or business entity ("contributor") adding materially to a project or repository, by way of new creative work stored or otherwise included as an element of an entity ("contribution"). A contribution may be attributed to a business entity as a single contributor.
+A Contributor is any individual person or business entity ("contributor") adding materially to any repository for any Initiative, Component Project or other Entity, by way of new creative work stored or otherwise included as an element of an entity ("contribution"). A contribution may be attributed to a business entity as a single contributor.
 
 Contributions may include but are not comprehensively defined or constrained by this normative list of activities, which we include as examples creative work:
 
