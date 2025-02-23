@@ -1,5 +1,5 @@
 ---
-version: 0.8.1
+version: 0.8.2
 ---
 <!--
  Copyright (C) 2022 Innovate for Vegas Foundation
