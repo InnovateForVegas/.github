@@ -70,7 +70,7 @@ All contributors to any part of any entity, including but not limited to Initiat
 > (d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
 >
 
-Additions or changes to a git repository ("commits"), including our repositories maintained on GitHub, must be submitted with a *signoff* option set, attesting to compliance with the Developer Certification of Origin policy. Submissions of creative work to any repository should include that signoff, the process documented here:
+Additions or changes to a git repository ("commits"), including our repositories maintained on GitHub, must be submitted with a *signoff* option set, attesting to compliance with the Developer Certification of Origin policy. Submissions of creative work to any repository shall include that signoff, the process documented here:
 
 * [Git -s/--signoff commit switch](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s)
 * [GitHub Commit Signoffs](https://docs.github.com/en/organizations/managing-organization-settings/managing-the-commit-signoff-policy-for-your-organization#about-commit-signoffs)
