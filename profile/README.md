@@ -91,11 +91,11 @@ Would you like to donate to support our organization? Here is a hosted *donation
 
 **Remember**: until our various financial tools are updated to reflect our new name, you may see *Code for Vegas Foundation* and we would remind you that the update is in progress to change the one word in our name…
 
-## Projects
+## Initiatives
 
-Each of the top-level project areas we are working on has an Overview repository with at least a summary README.md file, including some reference links and other info. These will ideally be developed collaboratively using the Agile for Volunteers approach, ie these are not specs handed down from on high, but project goals developed by those working on and benefiting in some way from these projects (as members of our communities at large…).
+Each of the top-level initiative areas we are working on has an Overview repository with at least a summary README.md file, including some reference links and other info. These will ideally be developed collaboratively using the Agile for Volunteers whole team approach, ie these are not specs handed down from on high, but initiative goals developed by those working on and benefiting in some way from these initiatives and component projects (as members of our communities at large…).
 
-There is a naming scheme for projects, and we use tagging to help navigate a growing collection of repos here on GitHub. We are also exploring the use of GitHub Projects for issue tracking,
+There is a naming scheme for repositories, and we use tagging to help navigate a growing collection of repos on GitHub.
 
 |Project Overview                                                                                | Description                                                                                                 |
 |------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
