@@ -62,15 +62,15 @@ The original Code for Vegas *brigade* (before there were brigades) as it was too
 
 *To enable and encourage Ideation, Innovation, and Implementation to make our communities better.*
 
-For more information about our organization, the status of our renaming, and relevant State and Federal database search locations if you are curious, please visit [here](https://github.com/InnovateForVegas/.github/blob/main/profile/legal.md)
+For more information about our organization, the status of our renaming, and relevant State and Federal database search locations if you are curious, please visit [our legal timeline](https://github.com/InnovateForVegas/.github/blob/main/profile/legal.md)
 
 ### Governance
 
 Our organization is extremely thin and **all volunteer**. That is, none of the people listed here, and possibly not listed here, who make our organization go, are doing so without compensation, completely on a volunteer basis.
 
 * Managing Director : [Dan Hugo](https://github.com/DanHugoDanHugo)
-* Director : [Mary Norris](https://github.com/maryfnorris)
-* Director : [Shawn Dean](https://github.com/)
+* Director : Seat Open
+* Director : Seat Open
 * Director Emeritus : [Shawn Looker](https://github.com/slooker)
 
 Our local tech and non-tech scene is as alive as ever, which makes now a great time to get involved with making Las Vegas and surrounding areas a great place to live or visit. One way to do that is to join this effort and work with municipal partners and our local communities to identify where we can make a difference, and then make that difference happen!
